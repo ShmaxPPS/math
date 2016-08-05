@@ -1,0 +1,358 @@
+\usepackage[T2A]{fontenc}
+\usepackage[cp1251]{inputenc}
+\usepackage[russian]{babel}
+
+\selectlanguage{russian}
+%\pagestyle{empty}
+
+
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+
+\textwidth=170mm
+\textheight=270mm
+\hoffset=-18mm
+\voffset=-30mm
+
+\parindent=0mm
+
+\renewcommand{\baselinestretch}{1.0}
+
+\ifx\pdfoutput\undefined
+\usepackage[dvips]{graphicx}
+\else
+\usepackage[pdftex]{graphicx}
+\fi
+
+
+\newcounter{z}
+\newcommand{\zad}[1]{\smallskip\par\addtocounter{z}{1}%        %Счетчик задач
+\parindent=-10mm\begin{tabular}{p{.5truecm}p{17.0truecm}}{\bf \arabic{z}.\, }&
+#1
+\end{tabular}
+}
+
+\sloppy
+
+% Новые команды
+\newcommand{\bs}{\backslash}
+\newcommand{\N}{\mathbb N}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\Q}{\mathbb Q}
+\newcommand{\R}{\mathbb R}
+\newcommand{\Co}{\mathbb C}
+\newcommand{\A}{\mathbb A}
+
+\newcommand{\GA}{\mathfrak A}
+
+\newcommand{\e}{\varepsilon}
+
+\newcommand{\g}{\circ}
+
+\newcommand{\got}[1]{{\mathfrak{#1}}}
+
+%большая дробь
+\def\dfrac#1#2{\displaystyle\frac{#1}{#2}}
+
+
+\renewcommand{\leq}{\leqslant}
+\renewcommand{\geq}{\geqslant}
+\renewcommand{\le}{\leqslant}
+\renewcommand{\ge}{\geqslant}
+
+\def\nod{\mbox{НОД}} %Слово НОД в формуле
+\def\nok{\mbox{НОК}} %Слово НОК в формуле
+
+%счетчики
+
+
+
+\newcommand{\task}{\addtocounter{z}{1}%        %Счетчик задач
+{\bf \arabic{z}. }}
+
+\newcommand{\tasku}{\addtocounter{z}{1}%        %Счетчик задач
+{\bf \arabic{z}!!. }}
+
+\newcounter{p}
+\newcommand{\pun}{\addtocounter{p}{1}%        %Счетчик пунктов
+{\bf \arabic{p}. }}
+
+
+
+\newcounter{a}
+\newcommand{\na}{\addtocounter{a}{1}%        %счетчик заданий А
+{\bf A\arabic{a}. }}
+
+\newcounter{b}
+\newcommand{\nb}{\addtocounter{b}{1}%        %Счетчик заданий В
+{\bf B\arabic{b}. }}
+
+\newcounter{c}
+\newcommand{\nc}{\addtocounter{c}{1}%        %Счетчик заданий С
+{\bf C\arabic{c}. }}
+
+\newcounter{v}
+\newcommand{\nv}{\addtocounter{v}{1}%        %Счетчик вариантов А
+{\quad \bf \arabic{v})\; }}
+
+\newcommand{\rv}{\setcounter{v}{0}}
+
+\newcommand{\nd}{\newline $\square$}            %начало доказательства
+
+\newcommand{\kd}{$\blacksquare$}       %конец доказательства
+
+\def\resetz{\setcounter{z}{0}  \setcounter{a}{0} \setcounter{b}{0} \setcounter{c}{0} \setcounter{p}{0}}
+
+
+%Варианты ответов
+
+\newcommand{\var}[4]{\nv #1 \hfill \nv #2 \hfill \nv #3 \hfill \nv #4 \hfill \rv}
+
+\newcommand{\tvar}[4]{\begin{array}{lll} {\bf 1)\;} #1 & \hfill & {\bf 3)\;}  #3  \\ {\bf 2)\;} #2 &\hfill & {\bf 4)\;} #4  \end{array}}
+
+
+\newcommand{\avar}[4]{\begin{array}{lll} { a)\;} #1 & \hfill & { c)\;}  #3  \\ { b)\;} #2 &\hfill & { d)\;} #4  \end{array}}
+
+\newcommand{\svar}[4]{\nv #1\\ \nv #2\\ \nv #3\\ \nv #4 \rv}
+
+
+
+
+ \newcommand{\twodot}{:}
+
+%какая-то хренатень
+\def\Side#1{%
+  \setbox\@tempboxa\vtop{\vskip-.5\baselineskip
+     \hbox{#1}
+  \smallskip}%
+  \begin{wrapfigure}{r}[-15pt]{\wd\@tempboxa}%
+  \parindent\z@\centering\leavevmode\box\@tempboxa
+  \end{wrapfigure}}
+
+
+\def\Skfrac#1#2{\left(\dfrac{#1}{#2}\right)} %дробь с БОЛЬШИМИ скобками
+
+\def\sgn{\mathop{\rm sgn}\nolimits} %тоже ерунда, но наверно верная.
+
+\def\divs{\,\lower.4ex\vdots\,} %бред, но верный, наверно.
+
+\def\Rre{\mathop{\rm Re}}    %реальная часть
+\def\Iim{\mathop{\rm Im}}    %мнимая часть
+
+\newdimen\cellsize
+\newdimen\lwidth
+\cellsize=1.5ex
+\bgroup
+\catcode`\@=11
+\gdef\catcodedefs{\catcode`\|=\active \catcode`\_=\active \catcode`\ =\active
+\catcode`\^^M=\active}
+
+
+{\catcode`\|=\active \catcode`\_=\active \catcode`\ =\active
+\catcode`\^^M=\active%
+\gdef\linedefs{\let|\vertline\let_\horline\let \nolines\let^^M\nextrow}}
+
+\gdef\lines#1{\count@\z@\dimen0=\cellsize\advance\dimen0 .4pt
+  \def\vertline{\count@\@ne\leavevmode\rlap{\vrule height \cellsize}}
+  \def\horline{\count@\z@\leavevmode
+    \hbox to\cellsize{\vrule height.4pt width\dimen0\hss}}
+  \def\nolines{\relax\ifodd\count@\leavevmode\kern\cellsize\count@\z@
+    \else\count@\@ne\fi\relax}
+  \def\nextrow{\par\count@\z@}
+  \lwidth\cellsize
+  \multiply\lwidth by #1
+  \catcode`\|=\active \catcode`\_=\active
+  \catcode`\^^M=\active \catcode`\ =\active
+  \hsize\lwidth\advance\hsize.4pt\parindent\z@\offinterlineskip\linedefs}
+
+\egroup
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% Некоторые стандартные и не очень клетчатые фигурки %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+{
+\catcodedefs%
+\gdef\dominoska{\vbox{\lines2
+ _ _
+|_|_|}\,}%
+%
+\gdef\triminougolok{\vbox{\lines2
+ _
+|_|_
+|_|_|}\,}%
+%
+\gdef\triminoska{\vbox{\lines3
+ _ _ _
+|_|_|_|}\,}%
+%
+\gdef\crest{\vbox{\lines3
+   _
+ _|_|_
+|_|_|_|
+  |_|  }\,}%
+%
+\gdef\squaredd{\vbox{\lines2
+ _ _
+|_|_|
+|_|_|}\,}%
+
+\gdef\Bsquaredd{\vbox{\lines4
+ _ _ _ _
+|   |   |
+|_ _|_ _|
+|   |   |
+|_ _|_ _|}\,}%
+
+%
+\gdef\squarett{\vbox{\lines3
+ _ _ _
+|_|_|_|
+|_|_|_|
+|_|_|_|}\,}%
+%
+\gdef\ttetr{\vbox{\lines3
+   _
+ _|_|_
+|_|_|_|}\,}%
+%
+\gdef\gtetr{\vbox{\lines3
+ _
+|_|_ _
+|_|_|_|}\,}%
+\gdef\gpent{\vbox{\lines4
+ _
+|_|_ _ _
+|_|_|_|_|}\,}%
+%
+\gdef\ztetr{\vbox{\lines3
+ _ _
+|_|_|_
+  |_|_|}\,}%
+%
+\gdef\zpent{\vbox{\lines3
+ _
+|_|_ _
+|_|_|_|
+    |_|}\,}%
+%
+\gdef\tetroska{\vbox{\lines4
+ _ _ _ _
+|_|_|_|_|}\,}%
+%
+\gdef\pyatnadtsatitoska{\vbox{\lines{15}
+ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+|_|_|_|_|_|_|_|_|_|_|_|_|_|_|_|}\,}%
+%
+\gdef\sixuha{\vbox{\lines3
+ _ _
+|_|_|_
+|_|_|_|
+|_|}\,}%
+%
+%
+%
+%Здесь можно добавлять определения новых клетчатых фигур по образцу
+%предыдущих. Осторожно: все возвраты каретки значимы
+%
+%
+%
+\gdef\chessboard{\vbox{\lines8
+ _ _ _ _ _ _ _ _
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|}}%
+%
+%
+\gdef\lesenkavosem{\vbox{\lines8
+ _
+|_|_
+|_|_|_
+|_|_|_|_
+|_|_|_|_|_
+|_|_|_|_|_|_
+|_|_|_|_|_|_|_
+|_|_|_|_|_|_|_|_
+|_|_|_|_|_|_|_|_|}}%
+\gdef\lesenkavosemr{\vbox{\lines8
+ _
+| |_
+|   |_
+|     |_
+|       |_
+|_ _ _ _| |_
+|   |       |_
+|   |         |_
+|_ _|_ _ _ _ _ _|}}%
+
+\gdef\zukaodin{\vbox{\lines5
+       _ _
+   _  |_|_|
+ _|_|_|_|_
+|_|_|_|_|_|}}%
+\gdef\zukaodin{\vbox{\lines5
+       _ _
+   _  |_|_|
+ _|_|_|_|_
+|_|_|_|_|_|}}%
+%
+\gdef\zukaodinans{\vbox{\lines6
+ _ _ _ _ _ _
+| |_   _   _|
+|  _| | |_| |
+| |_ _|_ _  |
+|  _  |  _| |
+|_| |_| |_  |
+|_ _ _ _ _|_|}}%
+%
+\gdef\userdva{\vbox{\lines9
+ _ _ _ _ _ _ _ _ _
+|           |     |
+|      _ _ _|     |
+|     |           |
+|_ _ _|_ _ _ _ _ _|}}
+%
+%
+\gdef\usertri{\vbox{\lines3
+ _ _ _
+| |_ _|
+|_|_| |
+|_ _|_|}}
+%
+\gdef\dyrdoska{\vtop{\lines8
+ _ _ _ _ _ _ _ _
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|   |_|_|_|
+|_|_|_|_ _|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|
+|_|_|_|_|_|_|_|_|}}
+%
+\gdef\razndva{\vtop{\lines6
+ _ _ _ _ _ _
+|  _ _ _ _ _|
+| |         |
+| |    _ _ _|
+| |   |  _ _|
+| |   | |   |
+|_|_ _|_|_ _|}}
+}
+
+
+
+
+
+
+
+
+\makeatother

@@ -1,0 +1,48 @@
+
+\section*{Неравенства.}
+\setcounter{z}{0}
+
+
+
+\zad Решите систему  неравенств  $\left\{ \begin{array}{l}
+                \dfrac{6}{4^{\sqrt{x}}-3\cdot2^{\sqrt{x}}+2}<1, \\
+                 \log_{\frac1x}(2,5x-1)\ge-2.
+              \end{array}
+ \right.$
+
+
+\zad  Решите неравенство $\dfrac{1}{\log_{27x}x}\ge\log_3\dfrac{x}3.$
+
+\zad  Решите неравенство $\log_{|x+3|}(2+4x+x^2)\le2.$
+
+\zad  Решите неравенство $\log_{x^2}\left(\dfrac{4x-5}{x-2} \right)^2\le1.$
+
+ 
+\zad Решите неравенство $4^x\cdot\log_{x^2}(x+2)^6\le14^x\cdot\log_{x^2}(x+2)^{11}+7^{2x+1}\cdot\log_{x^2}(x+2)^{5}.$
+
+\zad Решите неравенство $\log_{x^2-2}(x^4-4)\le 2+\dfrac{1}{\log_3(x^2-2)}.$
+
+\zad  Решите неравенство $4^x+4^{-x}\geq1,7\left(2^x+2^{-x} \right) .$
+
+
+\zad  Решите неравенство $\log_{0,5}\left(5^{1+\lg x}-0,5^{1+\lg x} \right)\ge-1+\lg x.$
+
+\zad  Решите неравенство $\left| \log_{x+1}\sqrt{(x-2)^4}+2 \right|\ge\log_{\frac{1}{x+1}}\sqrt{(x-2)^6}-3.$
+
+
+\zad  Решите неравенство $\left| \log_{x+1}2+\log_2\dfrac{x+1}4 \right|+|\log_2(4x+4)+\log_{x+1}2 |<5.$
+
+
+\zad  Решите неравенство $\dfrac{9}{\log_{1,9}x\log_{2,1}(x-10)^2}\ge \dfrac{(x-1)^{\log_3(x-1)}}{9\log_{1,9}x\log_{2,1}(x-10)^2}.$
+
+\zad  Решите неравенство $\log_{\sqrt{x+2}-\sqrt{x-1}}(x^2+x)\ge0.$
+
+\zad  Решите неравенство $\sqrt{2x^2+3x-35}+\sqrt{2x^2+x-36}\le|2x+1|.$
+
+\zad  Решите неравенство $\dfrac{3\lg x-\log_x10x^2}{2\lg x+\log_x1000x^5}\le\dfrac{2\lg^2x-\lg\dfrac{x^3}{10}}{3\lg\dfrac{x}{10}\lg10x+7\lg10x}.$
+
+\zad  Решите неравенство $\dfrac{2^{\log_{\frac{x}{2}}3}-3}{2-\log_{\frac{x}{128}}{\frac{x}{64}}}\ge0.$
+
+\zad  Решите неравенство $\dfrac{\log_4(x^4-4x^3+4x^2)+\log_{0,25}(6x^2-12x-9)}{x^2-2x-8}\ge0.$
+
+\zad  Решите неравенство $x\ge \log_2(101\cdot10^x-10^{2+2x})-\log_5(101\cdot2^x-5^{2+x}\cdot2^{2+2x}).$

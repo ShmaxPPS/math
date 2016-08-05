@@ -1,0 +1,53 @@
+\documentclass[a4paper,10pt,twocolumn]{amsart}
+
+\usepackage{osnova}
+
+
+\newcommand{\ans}{\it{Ответ: }}
+%нет ответов
+\newcommand{\htext}[1]{\par{}}
+\newcommand{\hans}[1]{\par{}}
+
+%ответы
+%\newcommand{\htext}[1]{#1}
+%\newcommand{\hans}[1]{\par{\ans $#1$}}
+
+\title{Задачи для подготовки к  ЕГЭ2015.}
+
+\begin{document}
+
+%\twocolumn[ \maketitle ] \tableofcontents
+%\parindent=0cm
+
+\newpage
+ \input{ 1.tex}
+\newpage
+ \input{ 2.tex}
+\newpage
+ \input{ 3.tex}
+\newpage \large
+ \input{4.tex}
+\newpage \large
+ \input{5.tex}
+\newpage
+ \input{ 6.tex}
+\newpage
+ \input{ 7.tex}
+\newpage
+ \input{ 8.tex}
+\newpage
+ \input{ 9.tex}
+\newpage \small 
+ \input{ 10.tex}
+\newpage \normalsize
+ \input{11.tex}
+\newpage \small
+ \input{12.tex}
+\newpage
+ \input{ 13.tex}
+\newpage
+ \input{14.tex}
+ 
+ 
+ 
+\end{document}

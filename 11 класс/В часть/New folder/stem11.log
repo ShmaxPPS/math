@@ -1,0 +1,7057 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.12)  4 AUG 2016 12:01
+entering extended mode
+**./stem11.tex
+(stem11.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsart.
+cls"
+Document Class: amsart 2015/03/04 v2.20.2
+\linespacing=\dimen102
+\normalparindent=\dimen103
+\normaltopskip=\skip41
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmat
+h.sty"
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstex
+t.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen
+.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy
+.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn
+.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks15
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 388.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.
+fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfo
+nts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+\copyins=\insert199
+\abstractbox=\box28
+\listisep=\skip45
+\c@part=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\captionindent=\dimen113
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+) (osnova.sty
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.s
+ty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aen
+c.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acm
+r.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.
+sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\cp125
+1.def"
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
+sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.
+cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\
+russianb.ldf"
+Language: russianb 2016/02/18 1.3h Russian support for the Babel system
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
+def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen114
+)
+Package babel Info: Making " an active character on input line 111.
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssy
+mb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graph
+icx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyva
+l.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks27
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graph
+ics.sty"
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.
+sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graph
+ics.cfg"
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\p
+dftex.def"
+File: pdftex.def 2016/07/01 v0.06i Graphics/color for pdfTeX
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\inf
+warerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltx
+cmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+\c@z=\count101
+\c@p=\count102
+\c@a=\count103
+\c@b=\count104
+\c@c=\count105
+\c@v=\count106
+\cellsize=\dimen117
+\lwidth=\dimen118
+) (wrapfig.sty
+\wrapoverhang=\dimen119
+\WF@size=\dimen120
+\c@WF@wrappedlines=\count107
+\WF@box=\box29
+\WF@everypar=\toks28
+Package: wrapfig 2003/01/31  v 3.6
+) (stem11.aux (test0.aux) (pt1.aux) (pt2.aux)
+(probability.aux) (geom1.aux) (test1.aux) (geom2.aux) (text1.aux) (text2.aux)
+(test2.aux) (trigonsimple.aux) (trigonequations1.aux) (home_trig.aux)
+(trigonequations2.aux) (test3.aux) (derivativ.aux) (derivativ2.aux)
+(home_derivative.aux) (stereom1.aux) (home_stereom1.aux) (test4.aux))
+\openout1 = `stem11.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Try loading font information for U+msa on input line 21.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.
+fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 21.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.
+fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen121
+\scratchbox=\box30
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen122
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks30
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdf
+texcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifl
+uatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifp
+df.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epsto
+pdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfex
+t.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvopt
+ions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvs
+etkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ete
+xcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) [1{C:/Users/r.alishev/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (st
+em11.toc)
+\tf@toc=\write3
+\openout3 = `stem11.toc'.
+
+ [2]
+\openout2 = `test0.aux'.
+
+ (test0.tex
+<28765.png, id=14, 567.11874pt x 444.66125pt>
+File: 28765.png Graphic file (type png)
+ <use 28765.png>
+Package pdftex.def Info: 28765.png used on input line 9.
+(pdftex.def)             Requested size: 340.27386pt x 266.7988pt.
+
+<22301.png, id=15, 186.28215pt x 101.178pt>
+File: 22301.png Graphic file (type png)
+ <use 22301.png>
+Package pdftex.def Info: 22301.png used on input line 12.
+(pdftex.def)             Requested size: 223.53743pt x 121.41296pt.
+
+<54505.jpg, id=17, 169.38281pt x 173.89969pt>
+File: 54505.jpg Graphic file (type jpg)
+ <use 54505.jpg>
+Package pdftex.def Info: 54505.jpg used on input line 20.
+(pdftex.def)             Requested size: 169.38239pt x 173.89925pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 20--20
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 1394) has occurred while \output is active []
+
+ [3
+
+ <./28765.png> <./22301.png>] <317547.png, id=26, 278.03876pt x 244.915pt>
+File: 317547.png Graphic file (type png)
+
+<use 317547.png>
+Package pdftex.def Info: 317547.png used on input line 24.
+(pdftex.def)             Requested size: 278.03807pt x 244.91438pt.
+ <26566.jpg, id=27, 164.86594pt x 133.24782pt>
+File: 26566.jpg Graphic file (type jpg)
+ <use 26566.jpg>
+Package pdftex.def Info: 26566.jpg used on input line 27.
+(pdftex.def)             Requested size: 164.86551pt x 133.24748pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 27--27
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 34--34
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 36--36
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+[4 <./54505.jpg> <./317547.png> <./26566.jpg>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 38--38
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 42--42
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 51--51
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 53--53
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 60--60
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 83--83
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 85--85
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 93--93
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+) [5]
+\openout2 = `pt1.aux'.
+
+ (pt1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--23
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--25
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--37
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--49
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--63
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--65
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--81
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--85
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 85--85
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--93
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 93--93
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--95
+[][]
+ []
+
+[6
+
+
+]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 95--95
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 97--97
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--103
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 103--103
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 103--103
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--116
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--119
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--125
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--128
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 128--131
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
+[][]
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 134--137
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 140--140
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 142--142
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 144--144
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 146--146
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 148--148
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 150--150
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 152--152
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 154--154
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+[][]
+ []
+
+[8]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 156--156
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 158--158
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--161
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 161--161
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--163
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 163--163
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 166--166
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 168--168
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--170
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 170--170
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--173
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 173--173
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--175
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 175--175
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--179
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 179--179
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
+[][]
+ []
+
+[9]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 183--183
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 186--186
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--186
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 186--186
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+) [10]
+\openout2 = `pt2.aux'.
+
+ (pt2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--14
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--19
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--26
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--30
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--39
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--77
+[][]
+ []
+
+
+Underfull \vbox (badness 3158) has occurred while \output is active []
+
+ [11
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--81
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--83
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--88
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--94
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--97
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--100
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--102
+[][]
+ []
+
+[12]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 102--102
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 104--104
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--106
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 106--106
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 107--107
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 114--114
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+<323015.png, id=62, 219.82124pt x 190.7125pt>
+File: 323015.png Graphic file (type png)
+ <use 323015.png>
+Package pdftex.def Info: 323015.png used on input line 116.
+(pdftex.def)             Requested size: 219.8207pt x 190.71202pt.
+) [13 <./323015.png>]
+\openout2 = `probability.aux'.
+
+ (probability.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--13
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--16
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--19
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 37--37
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+[][]
+ []
+
+[14
+
+
+]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 40--40
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 43--43
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 46--46
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--50
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 50--50
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--57
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 57--57
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 60--60
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 63--63
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 66--66
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--69
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 69--69
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--72
+[][]
+ []
+
+[15]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 72--72
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--75
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 75--75
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--78
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 78--78
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--81
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 81--81
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--84
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 84--84
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 87--87
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--90
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 90--90
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--93
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 93--93
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--96
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 96--96
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--99
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 99--99
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+[][]
+ []
+
+[16]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 102--102
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--105
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 105--105
+[]\T2A/cmr/bx/n/12 31.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--108
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 108--108
+[]\T2A/cmr/bx/n/12 32.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--111
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 111--111
+[]\T2A/cmr/bx/n/12 33.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--114
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 114--114
+[]\T2A/cmr/bx/n/12 34.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 117--117
+[]\T2A/cmr/bx/n/12 35.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--120
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 120--120
+[]\T2A/cmr/bx/n/12 36.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--123
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 123--123
+[]\T2A/cmr/bx/n/12 37.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--130
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 130--130
+[]\T2A/cmr/bx/n/12 38.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
+[][]
+ []
+
+[17]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 133--133
+[]\T2A/cmr/bx/n/12 39.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--136
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 136--136
+[]\T2A/cmr/bx/n/12 40.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--139
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 139--139
+[]\T2A/cmr/bx/n/12 41.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--142
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 142--142
+[]\T2A/cmr/bx/n/12 42.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--145
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 145--145
+[]\T2A/cmr/bx/n/12 43.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--148
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 148--148
+[]\T2A/cmr/bx/n/12 44.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--151
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 151--151
+[]\T2A/cmr/bx/n/12 45.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--154
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 154--154
+[]\T2A/cmr/bx/n/12 46.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--157
+[][]
+ []
+
+[18]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 157--157
+[]\T2A/cmr/bx/n/12 47.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--160
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 160--160
+[]\T2A/cmr/bx/n/12 48.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 163--163
+[]\T2A/cmr/bx/n/12 49.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--166
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 166--166
+[]\T2A/cmr/bx/n/12 50.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 169--169
+[]\T2A/cmr/bx/n/12 51.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 172--172
+[]\T2A/cmr/bx/n/12 52.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 172--174
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 174--174
+[]\T2A/cmr/bx/n/12 53.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 175--175
+[]\T2A/cmr/bx/n/12 54.| 
+ []
+
+) [19]
+\openout2 = `geom1.aux'.
+
+ (geom1.tex
+File: 22301.png Graphic file (type png)
+ <use 22301.png>
+Package pdftex.def Info: 22301.png used on input line 6.
+(pdftex.def)             Requested size: 186.28168pt x 101.17773pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 6--6
+[][][]| 
+ []
+
+<24099.png, id=87, 186.28215pt x 171.95276pt>
+File: 24099.png Graphic file (type png)
+ <use 24099.png>
+Package pdftex.def Info: 24099.png used on input line 8.
+(pdftex.def)             Requested size: 186.28168pt x 171.95233pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 8--8
+[][][]| 
+ []
+
+<5183.png, id=88, 159.59625pt x 159.59625pt>
+File: 5183.png Graphic file (type png)
+ <use 5183.png>
+Package pdftex.def Info: 5183.png used on input line 11.
+(pdftex.def)             Requested size: 159.59584pt x 159.59584pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 11--11
+[][][]| 
+ []
+
+<263417.png, id=89, 103.38625pt x 117.43875pt>
+File: 263417.png Graphic file (type png)
+ <use 263417.png>
+Package pdftex.def Info: 263417.png used on input line 13.
+(pdftex.def)             Requested size: 124.06287pt x 140.92577pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 13--13
+[][][]| 
+ []
+
+<263479.png, id=90, 145.54375pt x 159.59625pt>
+File: 263479.png Graphic file (type png)
+ <use 263479.png>
+Package pdftex.def Info: 263479.png used on input line 16.
+(pdftex.def)             Requested size: 145.54338pt x 159.59584pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 16--16
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20
+
+
+ <./24099.png> <./5183.png> <./263417.png>]
+<315137.png, id=97, 174.6525pt x 174.6525pt>
+File: 315137.png Graphic file (type png)
+ <use 315137.png>
+Package pdftex.def Info: 315137.png used on input line 18.
+(pdftex.def)             Requested size: 174.65207pt x 174.65207pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 18--18
+[][][]| 
+ []
+
+<322637.png, id=98, 118.4425pt x 118.4425pt>
+File: 322637.png Graphic file (type png)
+ <use 322637.png>
+Package pdftex.def Info: 322637.png used on input line 21.
+(pdftex.def)             Requested size: 142.13026pt x 142.13026pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 21--21
+[][][]| 
+ []
+
+<27891.jpg, id=99, 182.93344pt x 187.45032pt>
+File: 27891.jpg Graphic file (type jpg)
+ <use 27891.jpg>
+Package pdftex.def Info: 27891.jpg used on input line 25.
+(pdftex.def)             Requested size: 128.05252pt x 131.21431pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 25--25
+[][][]| 
+ []
+
+<508289.png, id=100, 117.43875pt x 132.495pt>
+File: 508289.png Graphic file (type png)
+ <use 508289.png>
+Package pdftex.def Info: 508289.png used on input line 29.
+(pdftex.def)             Requested size: 140.92577pt x 158.99318pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 29--29
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <./263479.png> <./315137.png> <./322637.png> <./27891.jpg>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 33--33
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+<508562.png, id=107, 188.705pt x 89.33376pt>
+File: 508562.png Graphic file (type png)
+ <use 508562.png>
+Package pdftex.def Info: 508562.png used on input line 33.
+(pdftex.def)             Requested size: 188.70453pt x 89.33353pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 33--33
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 37--37
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+<26080.jpg, id=108, 171.64125pt x 169.38281pt>
+File: 26080.jpg Graphic file (type jpg)
+ <use 26080.jpg>
+Package pdftex.def Info: 26080.jpg used on input line 37.
+(pdftex.def)             Requested size: 171.64081pt x 169.38239pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 37--37
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 39--39
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 41--41
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 45--45
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 49--49
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 52--52
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 55--55
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 59--59
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 62--62
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 66--66
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 70--70
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+<60817.jpg, id=109, 123.46124pt x 100.12407pt>
+File: 60817.jpg Graphic file (type jpg)
+ <use 60817.jpg>
+Package pdftex.def Info: 60817.jpg used on input line 70.
+(pdftex.def)             Requested size: 123.46092pt x 100.12381pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 70--70
+[][][]| 
+ []
+
+[22 <./508289.png> <./508562.png> <./26080.jpg>]
+<5085.png, id=115, 179.67125pt x 159.59625pt>
+File: 5085.png Graphic file (type png)
+ <use 5085.png>
+Package pdftex.def Info: 5085.png used on input line 90.
+(pdftex.def)             Requested size: 143.73717pt x 127.67715pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 90--90
+[][][]| 
+ []
+
+<5283.png, id=116, 219.82124pt x 139.52126pt>
+File: 5283.png Graphic file (type png)
+ <use 5283.png>
+Package pdftex.def Info: 5283.png used on input line 97.
+(pdftex.def)             Requested size: 175.85722pt x 111.61714pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 97--97
+[][][]| 
+ []
+
+<21499.png, id=117, 157.58875pt x 129.48375pt>
+File: 21499.png Graphic file (type png)
+ <use 21499.png>
+Package pdftex.def Info: 21499.png used on input line 107.
+(pdftex.def)             Requested size: 157.58835pt x 129.48341pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 107--107
+[][][]| 
+ []
+
+<22501.png, id=118, 186.28215pt x 143.29396pt>
+File: 22501.png Graphic file (type png)
+ <use 22501.png>
+Package pdftex.def Info: 22501.png used on input line 128.
+(pdftex.def)             Requested size: 186.28168pt x 143.2936pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 128--128
+[][][]| 
+ []
+
+<5317.png, id=119, 159.59625pt x 179.67125pt>
+File: 5317.png Graphic file (type png)
+ <use 5317.png>
+Package pdftex.def Info: 5317.png used on input line 134.
+(pdftex.def)             Requested size: 159.59584pt x 179.67079pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 134--134
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 6477) has occurred while \output is active []
+
+ [23 <./60817.jpg> <./5085.png> <./5283.png> <./21499.png> <./22501.png>]
+<24239.png, id=127, 114.4275pt x 114.4275pt>
+File: 24239.png Graphic file (type png)
+ <use 24239.png>
+Package pdftex.def Info: 24239.png used on input line 140.
+(pdftex.def)             Requested size: 114.42722pt x 114.42722pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 140--140
+[][][]| 
+ []
+
+<24273.png, id=128, 175.68073pt x 175.68073pt>
+File: 24273.png Graphic file (type png)
+ <use 24273.png>
+Package pdftex.def Info: 24273.png used on input line 148.
+(pdftex.def)             Requested size: 175.68028pt x 175.68028pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 148--148
+[][][]| 
+ []
+
+<248301.png, id=129, 117.43875pt x 117.43875pt>
+File: 248301.png Graphic file (type png)
+ <use 248301.png>
+Package pdftex.def Info: 248301.png used on input line 153.
+(pdftex.def)             Requested size: 117.43845pt x 117.43845pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 153--153
+[][][]| 
+ []
+
+<252347.png, id=130, 160.6pt x 145.54375pt>
+File: 252347.png Graphic file (type png)
+ <use 252347.png>
+Package pdftex.def Info: 252347.png used on input line 168.
+(pdftex.def)             Requested size: 160.5996pt x 145.54338pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 168--168
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 175--175
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+<256455.png, id=131, 145.54375pt x 145.54375pt>
+File: 256455.png Graphic file (type png)
+ <use 256455.png>
+Package pdftex.def Info: 256455.png used on input line 175.
+(pdftex.def)             Requested size: 145.54338pt x 145.54338pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 175--175
+[][][]| 
+ []
+
+[24 <./5317.png> <./24239.png> <./24273.png> <./248301.png> <./252347.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 183--183
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+<263415.png, id=140, 145.54375pt x 174.6525pt>
+File: 263415.png Graphic file (type png)
+ <use 263415.png>
+Package pdftex.def Info: 263415.png used on input line 183.
+(pdftex.def)             Requested size: 145.54338pt x 174.65207pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 183--183
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 189--189
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+<508293.png, id=141, 117.43875pt x 132.495pt>
+File: 508293.png Graphic file (type png)
+ <use 508293.png>
+Package pdftex.def Info: 508293.png used on input line 189.
+(pdftex.def)             Requested size: 140.92577pt x 158.99318pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 189--189
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 195--195
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+<508564.png, id=142, 75.28125pt x 117.43875pt>
+File: 508564.png Graphic file (type png)
+ <use 508564.png>
+Package pdftex.def Info: 508564.png used on input line 195.
+(pdftex.def)             Requested size: 90.33702pt x 140.92577pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 195--195
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 205--205
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+<263475.png, id=143, 117.43875pt x 131.49126pt>
+File: 263475.png Graphic file (type png)
+ <use 263475.png>
+Package pdftex.def Info: 263475.png used on input line 205.
+(pdftex.def)             Requested size: 117.43845pt x 131.49092pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 205--205
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25 <./256455.png> <./263415.png> <./508293.png> <./508564.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 211--211
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+<322735.png, id=152, 118.4425pt x 118.4425pt>
+File: 322735.png Graphic file (type png)
+ <use 322735.png>
+Package pdftex.def Info: 322735.png used on input line 211.
+(pdftex.def)             Requested size: 118.4422pt x 118.4422pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 211--211
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 217--217
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+<322829.png, id=153, 174.6525pt x 174.6525pt>
+File: 322829.png Graphic file (type png)
+ <use 322829.png>
+Package pdftex.def Info: 322829.png used on input line 217.
+(pdftex.def)             Requested size: 174.65207pt x 174.65207pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 217--217
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 221--221
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+<316033.png, id=154, 117.43875pt x 117.43875pt>
+File: 316033.png Graphic file (type png)
+ <use 316033.png>
+Package pdftex.def Info: 316033.png used on input line 221.
+(pdftex.def)             Requested size: 117.43845pt x 117.43845pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 221--221
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 226--226
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+<26077.jpg, id=155, 171.64125pt x 169.38281pt>
+File: 26077.jpg Graphic file (type jpg)
+ <use 26077.jpg>
+Package pdftex.def Info: 26077.jpg used on input line 226.
+(pdftex.def)             Requested size: 120.14804pt x 118.56714pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 226--226
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 230--230
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+<12_4.jpg, id=156, 170.88844pt x 173.89969pt>
+File: 12_4.jpg Graphic file (type jpg)
+ <use 12_4.jpg>
+Package pdftex.def Info: 12_4.jpg used on input line 230.
+(pdftex.def)             Requested size: 119.62108pt x 121.72893pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 230--230
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <./263475.png> <./322735.png> <./322829.png> <./316033.png> <./26077.jpg>]
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 233--233
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+<27889.jpg, id=164, 180.675pt x 178.41656pt>
+File: 27889.jpg Graphic file (type jpg)
+ <use 27889.jpg>
+Package pdftex.def Info: 27889.jpg used on input line 233.
+(pdftex.def)             Requested size: 126.47162pt x 124.89072pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 233--233
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 242--242
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+<12_5.png, id=165, 108.405pt x 72.27pt>
+File: 12_5.png Graphic file (type png)
+ <use 12_5.png>
+Package pdftex.def Info: 12_5.png used on input line 242.
+(pdftex.def)             Requested size: 108.40472pt x 72.2698pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 242--242
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 246--246
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+<27804.jpg, id=166, 174.6525pt x 172.39406pt>
+File: 27804.jpg Graphic file (type jpg)
+ <use 27804.jpg>
+Package pdftex.def Info: 27804.jpg used on input line 246.
+(pdftex.def)             Requested size: 122.2559pt x 120.675pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 246--246
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 260--260
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 263--263
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 266--266
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 270--270
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 273--273
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 275--275
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 278--278
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 281--281
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 284--284
+[]\T2A/cmr/bx/n/12 31.| 
+ []
+
+[27 <./12_4.jpg> <./27889.jpg> <./12_5.png> <./27804.jpg>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 287--287
+[]\T2A/cmr/bx/n/12 32.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 290--290
+[]\T2A/cmr/bx/n/12 33.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 294--294
+[]\T2A/cmr/bx/n/12 34.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 301--301
+[]\T2A/cmr/bx/n/12 35.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 304--304
+[]\T2A/cmr/bx/n/12 36.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 307--307
+[]\T2A/cmr/bx/n/12 37.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 310--310
+[]\T2A/cmr/bx/n/12 38.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 313--313
+[]\T2A/cmr/bx/n/12 39.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 316--316
+[]\T2A/cmr/bx/n/12 40.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 319--319
+[]\T2A/cmr/bx/n/12 41.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 322--322
+[]\T2A/cmr/bx/n/12 42.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 326--326
+[]\T2A/cmr/bx/n/12 43.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 330--330
+[]\T2A/cmr/bx/n/12 44.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 334--334
+[]\T2A/cmr/bx/n/12 45.| 
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 334--334
+[]\T2A/cmr/m/n/12 Найдите пло-щадь тре-уголь-ни-ка, вер-ши-ны ко-то-ро-го име-ю
+т ко-ор-ди-на-ты $\OT1/cmr/m/n/12 (2; 13)$\T2A/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 338--338
+[]\T2A/cmr/bx/n/12 46.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 344--344
+[]\T2A/cmr/bx/n/12 47.| 
+ []
+
+
+Underfull \hbox (badness 1983) in paragraph at lines 344--344
+[]\T2A/cmr/m/n/12 Две сто-ро-ны пря-мо-уголь-ни-ка $\OML/cmm/m/it/12 ABCD$ \T2A
+/cmr/m/n/12 рав-
+ []
+
+<60417.jpg, id=171, 131.74219pt x 91.84312pt>
+File: 60417.jpg Graphic file (type jpg)
+ <use 60417.jpg>
+Package pdftex.def Info: 60417.jpg used on input line 344.
+(pdftex.def)             Requested size: 131.74185pt x 91.84288pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 344--344
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 350--350
+[]\T2A/cmr/bx/n/12 48.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 358--358
+[]\T2A/cmr/bx/n/12 49.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 362--362
+[]\T2A/cmr/bx/n/12 50.| 
+ []
+
+[28 <./60417.jpg>] <252335.png, id=175, 145.54375pt x 131.49126pt>
+File: 252335.png Graphic file (type png)
+
+<use 252335.png>
+Package pdftex.def Info: 252335.png used on input line 378.
+(pdftex.def)             Requested size: 145.54338pt x 131.49092pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 378--378
+[][][]| 
+ []
+
+<23931.png, id=176, 185.69376pt x 171.64125pt>
+File: 23931.png Graphic file (type png)
+ <use 23931.png>
+Package pdftex.def Info: 23931.png used on input line 383.
+(pdftex.def)             Requested size: 167.12283pt x 154.47568pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 383--383
+[][][]| 
+ []
+
+<24271.png, id=177, 175.68073pt x 175.68073pt>
+File: 24271.png Graphic file (type png)
+ <use 24271.png>
+Package pdftex.def Info: 24271.png used on input line 389.
+(pdftex.def)             Requested size: 158.11118pt x 158.11118pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 389--389
+[][][]| 
+ []
+
+<258595.png, id=178, 145.54375pt x 89.33376pt>
+File: 258595.png Graphic file (type png)
+ <use 258595.png>
+Package pdftex.def Info: 258595.png used on input line 395.
+(pdftex.def)             Requested size: 189.20683pt x 116.13385pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 395--395
+[][][]| 
+ []
+
+<263375.png, id=179, 160.6pt x 89.33376pt>
+File: 263375.png Graphic file (type png)
+ <use 263375.png>
+Package pdftex.def Info: 263375.png used on input line 402.
+(pdftex.def)             Requested size: 208.77995pt x 116.13385pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 402--402
+[][][]| 
+ []
+
+<322737.png, id=180, 146.5475pt x 146.5475pt>
+File: 322737.png Graphic file (type png)
+ <use 322737.png>
+Package pdftex.def Info: 322737.png used on input line 412.
+(pdftex.def)             Requested size: 146.54712pt x 146.54712pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 412--412
+[][][]| 
+ []
+
+[29 <./252335.png> <./23931.png> <./24271.png> <./258595.png> <./263375.png>]
+<322825.png, id=189, 174.6525pt x 174.6525pt>
+File: 322825.png Graphic file (type png)
+ <use 322825.png>
+Package pdftex.def Info: 322825.png used on input line 419.
+(pdftex.def)             Requested size: 174.65207pt x 174.65207pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 419--419
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 430--430
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 433--433
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 436--436
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 439--439
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 442--442
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 445--445
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 449--449
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 452--452
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 458--458
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 464--464
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 473--473
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 476--476
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 482--482
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+[30 <./322737.png> <./322825.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 491--491
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 494--494
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 497--497
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 503--503
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 512--512
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+<10_11.png, id=195, 95.35625pt x 79.29625pt>
+File: 10_11.png Graphic file (type png)
+ <use 10_11.png>
+Package pdftex.def Info: 10_11.png used on input line 512.
+(pdftex.def)             Requested size: 85.81981pt x 71.36594pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 512--512
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 515--515
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+<10_12.png, id=196, 112.42pt x 86.3225pt>
+File: 10_12.png Graphic file (type png)
+ <use 10_12.png>
+Package pdftex.def Info: 10_12.png used on input line 515.
+(pdftex.def)             Requested size: 101.17706pt x 77.6895pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 515--515
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 519--519
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 522--522
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 525--525
+[]\T2A/cmr/bx/n/12 31.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 534--534
+[]\T2A/cmr/bx/n/12 32.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 537--537
+[]\T2A/cmr/bx/n/12 33.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 540--540
+[]\T2A/cmr/bx/n/12 34.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 549--549
+[]\T2A/cmr/bx/n/12 35.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 552--552
+[]\T2A/cmr/bx/n/12 36.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 561--561
+[]\T2A/cmr/bx/n/12 37.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 564--564
+[]\T2A/cmr/bx/n/12 38.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 570--570
+[]\T2A/cmr/bx/n/12 39.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 579--579
+[]\T2A/cmr/bx/n/12 40.| 
+ []
+
+) [31 <./10_11.png> <./10_12.png>]
+\openout2 = `test1.aux'.
+
+ (test1.tex
+<263865.JPG, id=203, 268.75406pt x 218.31563pt>
+File: 263865.JPG Graphic file (type jpg)
+ <use 263865.JPG>
+Package pdftex.def Info: 263865.JPG used on input line 14.
+(pdftex.def)             Requested size: 201.56505pt x 163.7363pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 14--14
+[][][]| 
+ []
+
+<251723.png, id=204, 117.43875pt x 117.43875pt>
+File: 251723.png Graphic file (type png)
+ <use 251723.png>
+Package pdftex.def Info: 251723.png used on input line 19.
+(pdftex.def)             Requested size: 140.92577pt x 140.92577pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 19--19
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+[][]
+ []
+
+<8557.png, id=205, 254.9525pt x 141.52875pt>
+File: 8557.png Graphic file (type png)
+ <use 8557.png>
+Package pdftex.def Info: 8557.png used on input line 32.
+(pdftex.def)             Requested size: 178.46552pt x 99.06944pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 32--32
+[][][]| 
+ []
+
+<25629.png, id=206, 147.55125pt x 95.35625pt>
+File: 25629.png Graphic file (type png)
+ <use 25629.png>
+Package pdftex.def Info: 25629.png used on input line 37.
+(pdftex.def)             Requested size: 147.55087pt x 95.356pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 37--37
+[][][]| 
+ []
+
+[32
+
+
+ <./263865.JPG> <./251723.png> <./8557.png> <./25629.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 43--43
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 46--46
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 49--49
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 55--55
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 59--59
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 61--61
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 68--68
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 76--76
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 88--88
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 99--99
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+) [33]
+\openout2 = `geom2.aux'.
+
+ (geom2.tex
+Underfull \hbox (badness 1297) in paragraph at lines 8--8
+[]\T2A/cmr/m/n/12 Четырехугольник $\OML/cmm/m/it/12 ABCD$ \T2A/cmr/m/n/12 впи-с
+ан в окруж-
+ []
+
+<10_3.jpg, id=216, 161.85469pt x 158.09062pt>
+File: 10_3.jpg Graphic file (type jpg)
+ <use 10_3.jpg>
+Package pdftex.def Info: 10_3.jpg used on input line 8.
+(pdftex.def)             Requested size: 113.2975pt x 110.66267pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 8--8
+[][][]| 
+ []
+
+<10_13.png, id=217, 91.34125pt x 89.33376pt>
+File: 10_13.png Graphic file (type png)
+ <use 10_13.png>
+Package pdftex.def Info: 10_13.png used on input line 13.
+(pdftex.def)             Requested size: 118.74359pt x 116.13385pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 13--13
+[][][]| 
+ []
+
+<27452.jpg, id=218, 171.64125pt x 169.38281pt>
+File: 27452.jpg Graphic file (type jpg)
+ <use 27452.jpg>
+Package pdftex.def Info: 27452.jpg used on input line 20.
+(pdftex.def)             Requested size: 120.14804pt x 118.56714pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 20--20
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 38--38
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 45--45
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 53--53
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+<27951.jpg, id=219, 180.675pt x 178.41656pt>
+File: 27951.jpg Graphic file (type jpg)
+ <use 27951.jpg>
+Package pdftex.def Info: 27951.jpg used on input line 53.
+(pdftex.def)             Requested size: 126.47162pt x 124.89072pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 53--53
+[][][]| 
+ []
+
+[34
+
+
+ <./10_3.jpg> <./10_13.png> <./27452.jpg>]
+Underfull \hbox (badness 1231) in paragraph at lines 80--80
+[]\T2A/cmr/m/n/12 Найдите угол $\OML/cmm/m/it/12 ACB$\T2A/cmr/m/n/12 , ес-ли вп
+и-сан-ные уг-лы
+ []
+
+<27885.jpg, id=224, 187.45032pt x 176.91093pt>
+File: 27885.jpg Graphic file (type jpg)
+ <use 27885.jpg>
+Package pdftex.def Info: 27885.jpg used on input line 80.
+(pdftex.def)             Requested size: 131.21431pt x 123.83679pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 80--80
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 85--85
+[]\T2A/cmr/m/n/12 Четырехугольник $\OML/cmm/m/it/12 ABCD$ \T2A/cmr/m/n/12 впи-с
+ан в окруж-
+ []
+
+<10_4.jpg, id=225, 161.85469pt x 158.09062pt>
+File: 10_4.jpg Graphic file (type jpg)
+ <use 10_4.jpg>
+Package pdftex.def Info: 10_4.jpg used on input line 85.
+(pdftex.def)             Requested size: 113.2975pt x 110.66267pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 85--85
+[][][]| 
+ []
+
+<10_5.jpg, id=226, 161.10187pt x 163.3603pt>
+File: 10_5.jpg Graphic file (type jpg)
+ <use 10_5.jpg>
+Package pdftex.def Info: 10_5.jpg used on input line 89.
+(pdftex.def)             Requested size: 112.77052pt x 114.35143pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 89--89
+[][][]| 
+ []
+
+<10_6.png, id=227, 94.3525pt x 99.37125pt>
+File: 10_6.png Graphic file (type png)
+ <use 10_6.png>
+Package pdftex.def Info: 10_6.png used on input line 97.
+(pdftex.def)             Requested size: 94.35225pt x 99.371pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 97--97
+[][][]| 
+ []
+
+<10_7.png, id=228, 88.33pt x 79.29625pt>
+File: 10_7.png Graphic file (type png)
+ <use 10_7.png>
+Package pdftex.def Info: 10_7.png used on input line 102.
+(pdftex.def)             Requested size: 88.32977pt x 79.29604pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 102--102
+[][][]| 
+ []
+
+<10_8.png, id=229, 89.33376pt x 88.33pt>
+File: 10_8.png Graphic file (type png)
+ <use 10_8.png>
+Package pdftex.def Info: 10_8.png used on input line 106.
+(pdftex.def)             Requested size: 89.33353pt x 88.32977pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 106--106
+[][][]| 
+ []
+
+[35 <./27951.jpg> <./27885.jpg> <./10_4.jpg> <./10_5.jpg> <./10_6.png> <./10_7.
+png>] <10_9.png, id=235, 109.40875pt x 86.3225pt>
+File: 10_9.png Graphic file (type png)
+ <use 10_9.png>
+Package pdftex.def Info: 10_9.png used on input line 110.
+(pdftex.def)             Requested size: 109.40846pt x 86.32227pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 110--110
+[][][]| 
+ []
+
+<10_10.png, id=236, 82.3075pt x 81.30376pt>
+File: 10_10.png Graphic file (type png)
+ <use 10_10.png>
+Package pdftex.def Info: 10_10.png used on input line 115.
+(pdftex.def)             Requested size: 82.30728pt x 81.30354pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 115--115
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 119--119
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 138--138
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+<27454.jpg, id=237, 171.64125pt x 169.38281pt>
+File: 27454.jpg Graphic file (type jpg)
+ <use 27454.jpg>
+Package pdftex.def Info: 27454.jpg used on input line 138.
+(pdftex.def)             Requested size: 137.31316pt x 135.50642pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 138--138
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 147--147
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 155--155
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 158--158
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 162--162
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 165--165
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 168--168
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 172--172
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 176--176
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 180--180
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+[36 <./10_8.png> <./10_9.png> <./10_10.png> <./27454.jpg>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 184--184
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 189--189
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 194--194
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--198
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 198--198
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 203--203
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--207
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 207--207
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 212--212
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 215--215
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--218
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 218--218
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 233--233
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 236--236
+[]\T2A/cmr/bx/n/12 31.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 237--237
+[]\T2A/cmr/bx/n/12 32.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 240--240
+[]\T2A/cmr/bx/n/12 33.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 240--242
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 242--242
+[]\T2A/cmr/bx/n/12 34.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 253--253
+[]\T2A/cmr/bx/n/12 35.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 254--254
+[]\T2A/cmr/bx/n/12 36.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 259--259
+[]\T2A/cmr/bx/n/12 37.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 261--261
+[]\T2A/cmr/bx/n/12 38.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 268--268
+[]\T2A/cmr/bx/n/12 39.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 268--270
+[][]
+ []
+
+[37]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 270--270
+[]\T2A/cmr/bx/n/12 40.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 278--278
+[]\T2A/cmr/bx/n/12 41.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 286--286
+[]\T2A/cmr/bx/n/12 42.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--288
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 288--288
+[]\T2A/cmr/bx/n/12 43.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 292--292
+[]\T2A/cmr/bx/n/12 44.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 292--294
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 294--294
+[]\T2A/cmr/bx/n/12 45.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--296
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 296--296
+[]\T2A/cmr/bx/n/12 46.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 296--298
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 298--298
+[]\T2A/cmr/bx/n/12 47.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--300
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 300--300
+[]\T2A/cmr/bx/n/12 48.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--302
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 302--302
+[]\T2A/cmr/bx/n/12 49.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 305--305
+[]\T2A/cmr/bx/n/12 50.| 
+ []
+
+[38]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 344--344
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 350--350
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 353--353
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 356--356
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 360--360
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 363--363
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 366--366
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 369--369
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 371--371
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 373--373
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 376--376
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+[39]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 379--379
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 381--381
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 384--384
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 384--386
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 386--386
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 386--387
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 387--387
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 389--389
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 392--392
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 396--396
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--398
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 398--398
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 401--401
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+) [40]
+\openout2 = `text1.aux'.
+
+ (text1.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--25
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--28
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--31
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--34
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+[][]
+ []
+
+[41
+
+
+]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 40--40
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 43--43
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 47--47
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 47--47
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--65
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--74
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--80
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--84
+[][]
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 84--97
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--101
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--107
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--111
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 111--111
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--117
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 117--117
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--120
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 120--120
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 122--122
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--125
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 125--125
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+[][]
+ []
+
+[43]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 127--127
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 129--129
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 131--131
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--134
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 134--134
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 136--136
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--138
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 138--138
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 140--140
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--142
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 142--142
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 144--144
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--146
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 146--146
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 148--148
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--150
+[][]
+ []
+
+[44]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 150--150
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 152--152
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 154--154
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 156--156
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 157--157
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--190
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+[][]
+ []
+
+) [46]
+\openout2 = `text2.aux'.
+
+ (text2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--15
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--22
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--24
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--41
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 41--41
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 59--59
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--66
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 66--66
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--75
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 75--75
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--85
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 85--85
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--96
+[][]
+ []
+
+[47
+
+
+]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 96--96
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
+[][]
+ []
+
+[48]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 142--142
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 149--149
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 155--155
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 164--164
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 169--169
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 176--176
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--180
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 180--180
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 188--188
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 197--197
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 210--210
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 215--215
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 227--230
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--247
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--250
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 250--255
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 255--260
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--264
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 264--264
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+) [50]
+\openout2 = `test2.aux'.
+
+ (test2.tex <263984.png, id=289, 180.675pt x 146.5475pt>
+File: 263984.png Graphic file (type png)
+
+<use 263984.png>
+Package pdftex.def Info: 263984.png used on input line 12.
+(pdftex.def)             Requested size: 180.67455pt x 146.54712pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 12--12
+[][][]| 
+ []
+
+<263421.png, id=290, 117.43875pt x 131.49126pt>
+File: 263421.png Graphic file (type png)
+ <use 263421.png>
+Package pdftex.def Info: 263421.png used on input line 16.
+(pdftex.def)             Requested size: 117.43845pt x 131.49092pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 16--16
+[][][]| 
+ []
+
+<26229.jpg, id=291, 223.58531pt x 126.4725pt>
+File: 26229.jpg Graphic file (type jpg)
+ <use 26229.jpg>
+Package pdftex.def Info: 26229.jpg used on input line 27.
+(pdftex.def)             Requested size: 156.50864pt x 88.53014pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 27--27
+[][][]| 
+ []
+
+<4953.png, id=292, 51.7935pt x 51.7935pt>
+File: 4953.png Graphic file (type png)
+ <use 4953.png>
+Package pdftex.def Info: 4953.png used on input line 33.
+(pdftex.def)             Requested size: 129.48341pt x 129.48341pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 33--33
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 40--40
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+[51
+
+
+ <./263984.png> <./263421.png> <./26229.jpg> <./4953.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 43--43
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 48--48
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 55--55
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 59--59
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 61--61
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 69--69
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 75--75
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 86--86
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 95--95
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+) [52]
+\openout2 = `trigonsimple.aux'.
+
+ (trigonsimple.tex
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 43--43
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 45--45
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 47--47
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--49
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 49--49
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 50--50
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 56--56
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--72
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--84
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--87
+[][]
+ []
+
+[53
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 87--91
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--96
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--100
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 103--103
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--109
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 109--109
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--113
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 113--113
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 115--115
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--119
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 119--119
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--122
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 122--122
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 125--125
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 130--130
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 135--135
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 137--137
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--140
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 140--140
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 144--144
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 148--148
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 154--154
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+[54]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 158--158
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 166--166
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 172--172
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 179--179
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 179--183
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 183--183
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--188
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 188--188
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 192--192
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+<trig.png, id=307, 1094.4087pt x 1108.8627pt>
+File: trig.png Graphic file (type png)
+ <use trig.png>
+Package pdftex.def Info: trig.png used on input line 195.
+(pdftex.def)             Requested size: 437.75572pt x 443.53723pt.
+) [55 <./trig.png>]
+\openout2 = `trigonequations1.aux'.
+
+(trigonequations1.tex <trigstandart.png, id=313, 129.6042pt x 129.6042pt>
+File: trigstandart.png Graphic file (type png)
+
+<use trigstandart.png>
+Package pdftex.def Info: trigstandart.png used on input line 13.
+(pdftex.def)             Requested size: 129.60387pt x 129.60387pt.
+File: trigstandart.png Graphic file (type png)
+ <use trigstandart.png>
+Package pdftex.def Info: trigstandart.png used on input line 13.
+(pdftex.def)             Requested size: 129.60387pt x 129.60387pt.
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 13--14
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--14
+
+ []
+
+File: trigstandart.png Graphic file (type png)
+<use trigstandart.png>
+Package pdftex.def Info: trigstandart.png used on input line 21.
+(pdftex.def)             Requested size: 129.60387pt x 129.60387pt.
+File: trigstandart.png Graphic file (type png)
+ <use trigstandart.png>
+Package pdftex.def Info: trigstandart.png used on input line 21.
+(pdftex.def)             Requested size: 129.60387pt x 129.60387pt.
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 21--22
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+File: trigstandart.png Graphic file (type png)
+<use trigstandart.png>
+Package pdftex.def Info: trigstandart.png used on input line 28.
+(pdftex.def)             Requested size: 129.60387pt x 129.60387pt.
+File: trigstandart.png Graphic file (type png)
+ <use trigstandart.png>
+Package pdftex.def Info: trigstandart.png used on input line 28.
+(pdftex.def)             Requested size: 129.60387pt x 129.60387pt.
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 28--29
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
+
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 32--33
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 35--35
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 35--36
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 37--37
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 37--37
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 37--38
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 41--41
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 41--41
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 41--42
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+[56
+
+
+ <./trigstandart.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 50--50
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 50--50
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 50--51
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 53--53
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 53--53
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 53--54
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 55--55
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 55--55
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 55--56
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+File: trigstandart.png Graphic file (type png)
+<use trigstandart.png>
+Package pdftex.def Info: trigstandart.png used on input line 68.
+(pdftex.def)             Requested size: 129.60387pt x 129.60387pt.
+File: trigstandart.png Graphic file (type png)
+ <use trigstandart.png>
+Package pdftex.def Info: trigstandart.png used on input line 68.
+(pdftex.def)             Requested size: 129.60387pt x 129.60387pt.
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 68--69
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 70--71
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 72--73
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--73
+
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 82--83
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 85--85
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 85--86
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 87--87
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 87--87
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 87--88
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--88
+
+ []
+
+[57]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 89--89
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 89--89
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 89--90
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 92--92
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 92--92
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 92--93
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 96--96
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 96--96
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 96--97
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 101--101
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 101--101
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 101--104
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 104--104
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 104--104
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--104
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 104--105
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 106--106
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 106--106
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 106--107
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+<trigokr.png, id=322, 1094.4087pt x 1108.8627pt>
+File: trigokr.png Graphic file (type png)
+ <use trigokr.png>
+Package pdftex.def Info: trigokr.png used on input line 108.
+(pdftex.def)             Requested size: 273.6015pt x 277.215pt.
+) [58 <./trigokr.png>]
+\openout2 = `home_trig.aux'.
+
+ (home_trig.tex
+Underfull \hbox (badness 10000) in paragraph at lines 10--15
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--22
+[][]
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 40--41
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 49--49
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 49--50
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--50
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 52--52
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 52--52
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 52--53
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 54--54
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 54--54
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 54--55
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 61--61
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 61--61
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 61--62
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 64--64
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 64--64
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
+\T2A/cmr/m/n/12 удовлетворяющие нера-вен-ству
+ []
+
+
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 64--65
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 67--67
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 67--67
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+)
+Overfull \hbox (30.0788pt too wide) in paragraph at lines 67--40
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--40
+
+ []
+
+[59
+
+
+]
+\openout2 = `trigonequations2.aux'.
+
+ (trigonequations2.tex
+Underfull \hbox (badness 10000) in paragraph at lines 26--29
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 40--40
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 45--45
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 47--47
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 52--52
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 54--54
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 56--56
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+[][]
+ []
+
+[60
+
+
+]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 99--99
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--102
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 102--102
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 105--105
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 109--109
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 111--111
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 115--115
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--118
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 118--118
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--121
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 121--121
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--126
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 126--126
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--129
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 129--129
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 131--131
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--133
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 133--133
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 135--135
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--139
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 139--139
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 147--147
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--150
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 150--150
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--152
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 152--152
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 154--154
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+[61]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 164--164
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--167
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 167--167
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 169--169
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+File: trigokr.png Graphic file (type png)
+<use trigokr.png>
+Package pdftex.def Info: trigokr.png used on input line 171.
+(pdftex.def)             Requested size: 437.75572pt x 443.53723pt.
+) [62]
+\openout2 = `test3.aux'.
+
+ (test3.tex <263928.png, id=342, 181.67876pt x 160.6pt>
+File: 263928.png Graphic file (type png)
+
+<use 263928.png>
+Package pdftex.def Info: 263928.png used on input line 12.
+(pdftex.def)             Requested size: 163.50935pt x 144.53865pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 12--12
+[][][]| 
+ []
+
+<259423.png, id=343, 131.49126pt x 145.54375pt>
+File: 259423.png Graphic file (type png)
+ <use 259423.png>
+Package pdftex.def Info: 259423.png used on input line 16.
+(pdftex.def)             Requested size: 105.19313pt x 116.43513pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 16--16
+[][][]| 
+ []
+
+<6401.jpg, id=344, 392.96812pt x 231.11343pt>
+File: 6401.jpg Graphic file (type jpg)
+ <use 6401.jpg>
+Package pdftex.def Info: 6401.jpg used on input line 33.
+(pdftex.def)             Requested size: 314.37491pt x 184.89099pt.
+
+<5027.png, id=345, 51.7935pt x 51.7935pt>
+File: 5027.png Graphic file (type png)
+ <use 5027.png>
+Package pdftex.def Info: 5027.png used on input line 37.
+(pdftex.def)             Requested size: 93.22821pt x 93.22821pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 37--37
+[][][]| 
+ []
+
+[63
+
+
+ <./263928.png> <./259423.png> <./6401.jpg>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 46--46
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+[]\T2A/cmr/m/n/12 При адиа-ба-ти-че-ском про-цес-се для иде-аль-но-го га-за вы-
+пол-ня-ет-ся за-кон
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 50--50
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 65--65
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 88--88
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 92--92
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 95--95
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 101--101
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 111--111
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 114--114
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 125--125
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+) [64 <./5027.png>]
+\openout2 = `derivativ.aux'.
+
+ (derivativ.tex
+Underfull \hbox (badness 6188) in paragraph at lines 17--17
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жен гра-фик функ-ции
+ []
+
+<6877.png, id=354, 241.90375pt x 155.58125pt>
+File: 6877.png Graphic file (type png)
+ <use 6877.png>
+Package pdftex.def Info: 6877.png used on input line 17.
+(pdftex.def)             Requested size: 193.52325pt x 124.46515pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 17--17
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 21--21
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жен гра-фик функ-ции
+ []
+
+<7119.png, id=355, 254.9525pt x 170.6375pt>
+File: 7119.png Graphic file (type png)
+ <use 7119.png>
+Package pdftex.def Info: 7119.png used on input line 21.
+(pdftex.def)             Requested size: 203.96225pt x 136.51016pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 21--21
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 25--25
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик функ-ции
+ []
+
+File: 317547.png Graphic file (type png)
+<use 317547.png>
+Package pdftex.def Info: 317547.png used on input line 25.
+(pdftex.def)             Requested size: 222.4313pt x 195.93225pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 25--25
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 29--29
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик функ-ции
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 29--29
+[]$ \T2A/cmr/m/n/12 и ка-са-тель-ная к нему в точ-ке с
+ []
+
+<9157.png, id=356, 184.69pt x 183.68625pt>
+File: 9157.png Graphic file (type png)
+ <use 9157.png>
+Package pdftex.def Info: 9157.png used on input line 29.
+(pdftex.def)             Requested size: 147.75218pt x 146.94917pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 29--29
+[][][]| 
+ []
+
+<317749.png, id=357, 278.03876pt x 263.98625pt>
+File: 317749.png Graphic file (type png)
+ <use 317749.png>
+Package pdftex.def Info: 317749.png used on input line 33.
+(pdftex.def)             Requested size: 222.4313pt x 211.18927pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 33--33
+[][][]| 
+ []
+
+[65
+
+
+ <./6877.png> <./7119.png> <./9157.png>]
+Underfull \hbox (badness 1546) in paragraph at lines 38--38
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лен-ной на ин-тер-ва-ле
+ []
+
+<7957.png, id=365, 355.3275pt x 156.585pt>
+File: 7957.png Graphic file (type png)
+ <use 7957.png>
+Package pdftex.def Info: 7957.png used on input line 38.
+(pdftex.def)             Requested size: 213.19814pt x 93.95172pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 38--38
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 42--42
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лен-ной на ин-тер-ва-ле
+ []
+
+<7557.png, id=366, 226.8475pt x 170.6375pt>
+File: 7557.png Graphic file (type png)
+ <use 7557.png>
+Package pdftex.def Info: 7557.png used on input line 42.
+(pdftex.def)             Requested size: 181.47824pt x 136.51016pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 42--42
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 45--45
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 49--49
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 49--49
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик неко-то-рой
+ []
+
+<323187.png, id=367, 207.77625pt x 95.35625pt>
+File: 323187.png Graphic file (type png)
+ <use 323187.png>
+Package pdftex.def Info: 323187.png used on input line 49.
+(pdftex.def)             Requested size: 145.44237pt x 66.7489pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 49--49
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 54--54
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик неко-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--54
+\T2A/cmr/m/n/12 то-рой функ-ции $[]$. Функ-ция
+ []
+
+<323293.png, id=368, 277.035pt x 207.77625pt>
+File: 323293.png Graphic file (type png)
+ <use 323293.png>
+Package pdftex.def Info: 323293.png used on input line 54.
+(pdftex.def)             Requested size: 193.92317pt x 145.44237pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 54--54
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 1571) has occurred while \output is active []
+
+ [66 <./317749.png> <./7957.png> <./7557.png> <./323187.png> <./323293.png>]
+Underfull \hbox (badness 6188) in paragraph at lines 78--78
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жен гра-фик функ-ции
+ []
+
+<6881.png, id=377, 212.795pt x 170.6375pt>
+File: 6881.png Graphic file (type png)
+ <use 6881.png>
+Package pdftex.def Info: 6881.png used on input line 78.
+(pdftex.def)             Requested size: 170.2362pt x 136.51016pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 78--78
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 82--82
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жен гра-фик функ-ции
+ []
+
+<6997.png, id=378, 226.8475pt x 170.6375pt>
+File: 6997.png Graphic file (type png)
+ <use 6997.png>
+Package pdftex.def Info: 6997.png used on input line 82.
+(pdftex.def)             Requested size: 181.47824pt x 136.51016pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 82--82
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 86--86
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жен гра-фик функ-ции
+ []
+
+<7117.png, id=379, 226.8475pt x 141.52875pt>
+File: 7117.png Graphic file (type png)
+ <use 7117.png>
+Package pdftex.def Info: 7117.png used on input line 86.
+(pdftex.def)             Requested size: 181.47824pt x 113.22314pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 86--86
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 90--90
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жен гра-фик функ-ции
+ []
+
+<7357.png, id=380, 240.9pt x 155.58125pt>
+File: 7357.png Graphic file (type png)
+ <use 7357.png>
+Package pdftex.def Info: 7357.png used on input line 90.
+(pdftex.def)             Requested size: 192.72025pt x 124.46515pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 90--90
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 94--94
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лен-ной на ин-тер-ва-ле
+ []
+
+<7563.png, id=381, 212.795pt x 156.585pt>
+File: 7563.png Graphic file (type png)
+ <use 7563.png>
+Package pdftex.def Info: 7563.png used on input line 94.
+(pdftex.def)             Requested size: 170.2362pt x 125.26816pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 94--94
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 5417) has occurred while \output is active []
+
+ [67 <./6881.png> <./6997.png> <./7117.png> <./7357.png>]
+Underfull \hbox (badness 1546) in paragraph at lines 99--99
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лен-ной на ин-тер-ва-ле
+ []
+
+<6427.jpg, id=390, 365.86688pt x 261.97874pt>
+File: 6427.jpg Graphic file (type jpg)
+ <use 6427.jpg>
+Package pdftex.def Info: 6427.jpg used on input line 99.
+(pdftex.def)             Requested size: 182.93298pt x 130.98904pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 99--99
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 103--103
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 103--103
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лен-ной на ин-тер-ва-ле
+ []
+
+<7961.png, id=391, 369.38pt x 169.63374pt>
+File: 7961.png Graphic file (type png)
+ <use 7961.png>
+Package pdftex.def Info: 7961.png used on input line 103.
+(pdftex.def)             Requested size: 221.6297pt x 101.78102pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 103--103
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--106
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 106--106
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 106--106
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жен гра-фик про-из-вод-
+ []
+
+<8157.png, id=392, 240.9pt x 170.6375pt>
+File: 8157.png Graphic file (type png)
+ <use 8157.png>
+Package pdftex.def Info: 8157.png used on input line 106.
+(pdftex.def)             Requested size: 192.72025pt x 136.51016pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 106--106
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--109
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 109--109
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 109--109
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жен гра-фик про-из-вод-
+ []
+
+<8163.png, id=393, 226.8475pt x 141.52875pt>
+File: 8163.png Graphic file (type png)
+ <use 8163.png>
+Package pdftex.def Info: 8163.png used on input line 109.
+(pdftex.def)             Requested size: 181.47824pt x 113.22314pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 109--109
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 113--113
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 113--113
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лен-ной на ин-тер-ва-ле
+ []
+
+
+Underfull \hbox (badness 1521) in paragraph at lines 113--113
+\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12  \OT1/cmr/m/n/12 1; 15)$\T2A/cmr/m/n/12 . Най
+-ди-те про-ме-жут-ки воз-рас-та-ния
+ []
+
+<8357.png, id=394, 283.0575pt x 155.58125pt>
+File: 8357.png Graphic file (type png)
+ <use 8357.png>
+Package pdftex.def Info: 8357.png used on input line 113.
+(pdftex.def)             Requested size: 198.13889pt x 108.90611pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 113--113
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 117--117
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 117--117
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лен-ной на ин-тер-ва-ле
+ []
+
+File: 8557.png Graphic file (type png)
+<use 8557.png>
+Package pdftex.def Info: 8557.png used on input line 117.
+(pdftex.def)             Requested size: 191.21388pt x 106.14629pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 117--117
+[][][]| 
+ []
+
+[68 <./7563.png> <./6427.jpg> <./7961.png> <./8157.png> <./8163.png> <./8357.pn
+g>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 121--121
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+<8563.png, id=403, 254.9525pt x 156.585pt>
+File: 8563.png Graphic file (type png)
+ <use 8563.png>
+Package pdftex.def Info: 8563.png used on input line 121.
+(pdftex.def)             Requested size: 178.46552pt x 109.60873pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 121--121
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--124
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 124--124
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 124--124
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лен-ной на ин-тер-ва-ле
+ []
+
+<8957.png, id=404, 226.8475pt x 170.6375pt>
+File: 8957.png Graphic file (type png)
+ <use 8957.png>
+Package pdftex.def Info: 8957.png used on input line 124.
+(pdftex.def)             Requested size: 181.47824pt x 136.51016pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 124--124
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--127
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 127--127
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 127--127
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лен-ной на ин-тер-ва-ле
+ []
+
+<8965.png, id=405, 212.795pt x 170.6375pt>
+File: 8965.png Graphic file (type png)
+ <use 8965.png>
+Package pdftex.def Info: 8965.png used on input line 127.
+(pdftex.def)             Requested size: 170.2362pt x 136.51016pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 127--127
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 130--130
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 130--130
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик функ-ции
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 130--130
+[]$ \T2A/cmr/m/n/12 и ка-са-тель-ная к нему в точ-ке с
+ []
+
+<9161.png, id=406, 155.58125pt x 169.63374pt>
+File: 9161.png Graphic file (type png)
+ <use 9161.png>
+Package pdftex.def Info: 9161.png used on input line 130.
+(pdftex.def)             Requested size: 108.90611pt x 118.7428pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 130--130
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--133
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 133--133
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 133--133
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик функ-ции
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 133--133
+[]$ \T2A/cmr/m/n/12 и ка-са-тель-ная к нему в точ-ке с
+ []
+
+<9359.png, id=407, 198.7425pt x 141.52875pt>
+File: 9359.png Graphic file (type png)
+ <use 9359.png>
+Package pdftex.def Info: 9359.png used on input line 133.
+(pdftex.def)             Requested size: 158.9942pt x 113.22314pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 133--133
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 137--137
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 137--137
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жен гра-фик функ-ции
+ []
+
+<54801.png, id=408, 443.6575pt x 357.335pt>
+File: 54801.png Graphic file (type png)
+ <use 54801.png>
+Package pdftex.def Info: 54801.png used on input line 137.
+(pdftex.def)             Requested size: 155.28244pt x 125.06912pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 137--137
+[][][]| 
+ []
+
+[69 <./8563.png> <./8957.png> <./8965.png> <./9161.png> <./9359.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 142--142
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 145--145
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 149--149
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 156--156
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 164--164
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 170--170
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 175--175
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 179--179
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 185--185
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 185--185
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик функ-ции
+ []
+
+<317559.png, id=417, 278.03876pt x 243.91125pt>
+File: 317559.png Graphic file (type png)
+ <use 317559.png>
+Package pdftex.def Info: 317559.png used on input line 185.
+(pdftex.def)             Requested size: 194.6258pt x 170.7367pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 185--185
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 190--190
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+<317745.png, id=418, 278.03876pt x 230.8625pt>
+File: 317745.png Graphic file (type png)
+ <use 317745.png>
+Package pdftex.def Info: 317745.png used on input line 190.
+(pdftex.def)             Requested size: 194.6258pt x 161.60263pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 190--190
+[][][]| 
+ []
+
+[70 <./54801.png> <./317559.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 197--197
+[]\T2A/cmr/bx/n/12 31.| 
+ []
+
+<317849.png, id=424, 278.03876pt x 164.615pt>
+File: 317849.png Graphic file (type png)
+ <use 317849.png>
+Package pdftex.def Info: 317849.png used on input line 197.
+(pdftex.def)             Requested size: 194.6258pt x 115.2297pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 197--197
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 202--202
+[]\T2A/cmr/bx/n/12 32.| 
+ []
+
+<317947.png, id=425, 259.97125pt x 158.5925pt>
+File: 317947.png Graphic file (type png)
+ <use 317947.png>
+Package pdftex.def Info: 317947.png used on input line 202.
+(pdftex.def)             Requested size: 181.97862pt x 111.01396pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 202--202
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 207--207
+[]\T2A/cmr/bx/n/12 33.| 
+ []
+
+<317949.png, id=426, 259.97125pt x 111.41624pt>
+File: 317949.png Graphic file (type png)
+ <use 317949.png>
+Package pdftex.def Info: 317949.png used on input line 207.
+(pdftex.def)             Requested size: 181.97862pt x 77.99083pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 207--207
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 212--212
+[]\T2A/cmr/bx/n/12 34.| 
+ []
+
+<318045.png, id=427, 259.97125pt x 137.51375pt>
+File: 318045.png Graphic file (type png)
+ <use 318045.png>
+Package pdftex.def Info: 318045.png used on input line 212.
+(pdftex.def)             Requested size: 181.97862pt x 96.25896pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 212--212
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 217--217
+[]\T2A/cmr/bx/n/12 35.| 
+ []
+
+<318049.png, id=428, 259.97125pt x 179.67125pt>
+File: 318049.png Graphic file (type png)
+ <use 318049.png>
+Package pdftex.def Info: 318049.png used on input line 217.
+(pdftex.def)             Requested size: 181.97862pt x 125.769pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 217--217
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--220
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 220--220
+[]\T2A/cmr/bx/n/12 36.| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 220--220
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик функ-ции
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 220--220
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лјн-ной на ин-тер-ва-ле
+ []
+
+<323081.png, id=429, 259.97125pt x 207.77625pt>
+File: 323081.png Graphic file (type png)
+ <use 323081.png>
+Package pdftex.def Info: 323081.png used on input line 220.
+(pdftex.def)             Requested size: 181.97862pt x 145.44237pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 220--220
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 2644) has occurred while \output is active []
+
+ [71 <./317745.png> <./317849.png> <./317947.png> <./317949.png> <./318045.png>
+ <./318049.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 226--226
+[]\T2A/cmr/bx/n/12 37.| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 226--226
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик функ-ции
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 226--226
+\T2A/cmr/m/n/12 функ-ции $\OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x
+\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 , опре-де-лјн-ной на ин-тер-ва-ле
+ []
+
+<323179.png, id=439, 203.76125pt x 152.57pt>
+File: 323179.png Graphic file (type png)
+ <use 323179.png>
+Package pdftex.def Info: 323179.png used on input line 226.
+(pdftex.def)             Requested size: 142.6319pt x 106.79826pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 226--226
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--229
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 229--229
+[]\T2A/cmr/bx/n/12 38.| 
+ []
+
+
+Underfull \hbox (badness 3039) in paragraph at lines 229--229
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик неко-то-рой
+ []
+
+<323183.png, id=440, 207.77625pt x 95.35625pt>
+File: 323183.png Graphic file (type png)
+ <use 323183.png>
+Package pdftex.def Info: 323183.png used on input line 229.
+(pdftex.def)             Requested size: 145.44237pt x 66.7489pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 229--229
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 247--247
+[]\T2A/cmr/bx/n/12 39.| 
+ []
+
+<323383.png, id=441, 308.15125pt x 112.42pt>
+File: 323383.png Graphic file (type png)
+ <use 323383.png>
+Package pdftex.def Info: 323383.png used on input line 247.
+(pdftex.def)             Requested size: 308.15048pt x 112.41972pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 247--253
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 253--253
+[]\T2A/cmr/bx/n/12 40.| 
+ []
+
+<323385.png, id=442, 308.15125pt x 59.22125pt>
+File: 323385.png Graphic file (type png)
+ <use 323385.png>
+Package pdftex.def Info: 323385.png used on input line 253.
+(pdftex.def)             Requested size: 308.15048pt x 59.22108pt.
+) [72 <./323081.png> <./323179.png> <./323183.png> <./323383.png> <./323385.png
+>]
+\openout2 = `derivativ2.aux'.
+
+
+(derivativ2.tex
+Overfull \hbox (17.6735pt too wide) detected at line 13
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--37
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--43
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--46
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--49
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 49--49
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--52
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 52--52
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 54--54
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--57
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 57--57
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--60
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 60--60
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--63
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 63--63
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
+[][]
+ []
+
+[73
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--78
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--80
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--84
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--86
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 97--97
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--101
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 101--101
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--103
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 103--103
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 105--105
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--111
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 111--111
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 113--113
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 113--115
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 115--115
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 117--117
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--119
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 119--119
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 121--121
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 123--123
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+[][]
+ []
+
+[74]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 125--125
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 125--127
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 127--127
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 129--129
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--133
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 133--133
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 135--135
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--137
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 137--137
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--143
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 143--143
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--145
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 145--145
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--147
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 147--147
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--149
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 149--149
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--152
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 152--152
+[]\T2A/cmr/bx/n/12 31.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 154--154
+[]\T2A/cmr/bx/n/12 32.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 156--156
+[]\T2A/cmr/bx/n/12 33.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--158
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 158--158
+[]\T2A/cmr/bx/n/12 34.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 159--159
+[]\T2A/cmr/bx/n/12 35.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 159--162
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 162--162
+[]\T2A/cmr/bx/n/12 36.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 164--164
+[]\T2A/cmr/bx/n/12 37.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--166
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 166--166
+[]\T2A/cmr/bx/n/12 38.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--168
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 168--168
+[]\T2A/cmr/bx/n/12 39.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 169--169
+[]\T2A/cmr/bx/n/12 40.| 
+ []
+
+) [75]
+\openout2 = `home_derivative.aux'.
+
+ (home_derivative.tex
+Underfull \hbox (badness 10000) in paragraph at lines 6--8
+[][]
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 8--8
+\T2A/cmr/m/n/12 ин-тер-ва-ле $\OT1/cmr/m/n/12 (\OMS/cmsy/m/n/12  \OT1/cmr/m/n/1
+2 5; 6)$\T2A/cmr/m/n/12 . В ка-кой точ-ке от-рез-ка
+ []
+
+<7793.png, id=468, 212.795pt x 170.6375pt>
+File: 7793.png Graphic file (type png)
+ <use 7793.png>
+Package pdftex.def Info: 7793.png used on input line 8.
+(pdftex.def)             Requested size: 170.2362pt x 136.51016pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 8--8
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+[][]
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 10--10
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-же-ны гра-фик функ-ции
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 10--10
+[]$ \T2A/cmr/m/n/12 и ка-са-тель-ная к нему в точ-ке с
+ []
+
+<9087.png, id=469, 184.69pt x 169.63374pt>
+File: 9087.png Graphic file (type png)
+ <use 9087.png>
+Package pdftex.def Info: 9087.png used on input line 10.
+(pdftex.def)             Requested size: 147.75218pt x 135.70717pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 10--10
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--14
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--16
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+[][]
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 18--18
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик функ-ции
+ []
+
+<323189.png, id=470, 207.77625pt x 95.35625pt>
+File: 323189.png Graphic file (type png)
+ <use 323189.png>
+Package pdftex.def Info: 323189.png used on input line 18.
+(pdftex.def)             Requested size: 207.77573pt x 95.356pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 18--18
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--20
+[][]
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 20--20
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик неко-то-рой функ-ции $\OML/c
+mm/m/it/12 y \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 f\OT1/cmr/m/n/12 (\OML/cmm/m/it
+/12 x\OT1/cmr/m/n/12 )$\T2A/cmr/m/n/12 . Функ-ция
+ []
+
+<323391.png, id=471, 277.035pt x 77.28876pt>
+File: 323391.png Graphic file (type png)
+ <use 323391.png>
+Package pdftex.def Info: 323391.png used on input line 21.
+(pdftex.def)             Requested size: 277.03432pt x 77.28856pt.
+ [76
+
+
+ <./7793.png> <./9087.png> <./323189.png> <./323391.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 31--31
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 35--35
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 39--39
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 43--43
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 47--47
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 51--51
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 55--55
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 59--59
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 63--63
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 67--67
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 71--71
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 75--75
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 79--79
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 83--83
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 87--87
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 91--91
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 95--95
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 99--99
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 103--103
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 107--107
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 111--111
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 115--115
+[]\T2A/cmr/bx/n/12 31.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 119--119
+[]\T2A/cmr/bx/n/12 32.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 123--123
+[]\T2A/cmr/bx/n/12 33.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 127--127
+[]\T2A/cmr/bx/n/12 34.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 131--131
+[]\T2A/cmr/bx/n/12 35.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 135--135
+[]\T2A/cmr/bx/n/12 36.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 139--139
+[]\T2A/cmr/bx/n/12 37.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 143--143
+[]\T2A/cmr/bx/n/12 38.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 147--147
+[]\T2A/cmr/bx/n/12 39.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 151--151
+[]\T2A/cmr/bx/n/12 40.| 
+ []
+
+) [77]
+\openout2 = `stereom1.aux'.
+
+ (stereom1.tex <5081.jpg, id=482, 164.86594pt x 162.6075pt>
+File: 5081.jpg Graphic file (type jpg)
+
+<use 5081.jpg>
+Package pdftex.def Info: 5081.jpg used on input line 6.
+(pdftex.def)             Requested size: 115.40535pt x 113.82446pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 6--6
+[][][]| 
+ []
+
+<25535.png, id=483, 121.45375pt x 104.39pt>
+File: 25535.png Graphic file (type png)
+ <use 25535.png>
+Package pdftex.def Info: 25535.png used on input line 10.
+(pdftex.def)             Requested size: 97.1631pt x 83.51208pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 10--10
+[][][]| 
+ []
+
+<4941.png, id=484, 51.7935pt x 51.7935pt>
+File: 4941.png Graphic file (type png)
+ <use 4941.png>
+Package pdftex.def Info: 4941.png used on input line 14.
+(pdftex.def)             Requested size: 93.22821pt x 93.22821pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 14--14
+[][][]| 
+ []
+
+<25957.png, id=485, 136.51pt x 154.5775pt>
+File: 25957.png Graphic file (type png)
+ <use 25957.png>
+Package pdftex.def Info: 25957.png used on input line 24.
+(pdftex.def)             Requested size: 109.20813pt x 123.66214pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 24--24
+[][][]| 
+ []
+
+<325645.png, id=486, 69.25874pt x 50.1875pt>
+File: 325645.png Graphic file (type png)
+ <use 325645.png>
+Package pdftex.def Info: 325645.png used on input line 28.
+(pdftex.def)             Requested size: 83.11005pt x 60.22467pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 28--28
+[][][]| 
+ []
+
+<4863.png, id=487, 51.7935pt x 51.7935pt>
+File: 4863.png Graphic file (type png)
+ <use 4863.png>
+Package pdftex.def Info: 4863.png used on input line 46.
+(pdftex.def)             Requested size: 93.22821pt x 93.22821pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 46--46
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 6461) has occurred while \output is active []
+
+ [78
+
+
+ <./5081.jpg> <./25535.png> <./4941.png> <./25957.png> <./325645.png>]
+<4905.png, id=494, 51.7935pt x 51.7935pt>
+File: 4905.png Graphic file (type png)
+ <use 4905.png>
+Package pdftex.def Info: 4905.png used on input line 50.
+(pdftex.def)             Requested size: 93.22821pt x 93.22821pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 50--50
+[][][]| 
+ []
+
+<5023.png, id=495, 51.7935pt x 51.7935pt>
+File: 5023.png Graphic file (type png)
+ <use 5023.png>
+Package pdftex.def Info: 5023.png used on input line 56.
+(pdftex.def)             Requested size: 93.22821pt x 93.22821pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 56--56
+[][][]| 
+ []
+
+<5053.jpg, id=496, 172.39406pt x 162.6075pt>
+File: 5053.jpg Graphic file (type jpg)
+ <use 5053.jpg>
+Package pdftex.def Info: 5053.jpg used on input line 60.
+(pdftex.def)             Requested size: 120.675pt x 113.82446pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 60--60
+[][][]| 
+ []
+
+<5065.jpg, id=497, 246.9225pt x 179.16937pt>
+File: 5065.jpg Graphic file (type jpg)
+ <use 5065.jpg>
+Package pdftex.def Info: 5065.jpg used on input line 65.
+(pdftex.def)             Requested size: 172.84456pt x 125.4177pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 65--65
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 70--70
+[]\T2A/cmr/m/n/12 Площадь бо-ко-вой по-верх-но-сти тре-уголь-ной
+ []
+
+<5067.jpg, id=498, 201.00093pt x 162.6075pt>
+File: 5067.jpg Graphic file (type jpg)
+ <use 5067.jpg>
+Package pdftex.def Info: 5067.jpg used on input line 70.
+(pdftex.def)             Requested size: 140.69968pt x 113.82446pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 70--70
+[][][]| 
+ []
+
+<5073.jpg, id=499, 177.66376pt x 161.85469pt>
+File: 5073.jpg Graphic file (type jpg)
+ <use 5073.jpg>
+Package pdftex.def Info: 5073.jpg used on input line 74.
+(pdftex.def)             Requested size: 124.36377pt x 113.2975pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 74--74
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [79 <./4863.png> <./4905.png> <./5023.png> <./5053.jpg> <./5065.jpg> <./5067.j
+pg>]
+<5079.jpg, id=504, 216.81pt x 170.13562pt>
+File: 5079.jpg Graphic file (type jpg)
+ <use 5079.jpg>
+Package pdftex.def Info: 5079.jpg used on input line 79.
+(pdftex.def)             Requested size: 151.76596pt x 119.0941pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 79--79
+[][][]| 
+ []
+
+<25665.png, id=505, 102.3825pt x 95.35625pt>
+File: 25665.png Graphic file (type png)
+ <use 25665.png>
+Package pdftex.def Info: 25665.png used on input line 84.
+(pdftex.def)             Requested size: 81.9061pt x 76.28508pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 84--84
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 89--89
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+<25851.png, id=506, 149.55875pt x 133.49875pt>
+File: 25851.png Graphic file (type png)
+ <use 25851.png>
+Package pdftex.def Info: 25851.png used on input line 89.
+(pdftex.def)             Requested size: 119.64716pt x 106.79912pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 89--89
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 94--94
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+<25863.png, id=507, 149.55875pt x 133.49875pt>
+File: 25863.png Graphic file (type png)
+ <use 25863.png>
+Package pdftex.def Info: 25863.png used on input line 94.
+(pdftex.def)             Requested size: 119.64716pt x 106.79912pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 94--94
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 99--99
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+<25893.png, id=508, 137.51375pt x 123.46124pt>
+File: 25893.png Graphic file (type png)
+ <use 25893.png>
+Package pdftex.def Info: 25893.png used on input line 99.
+(pdftex.def)             Requested size: 137.51341pt x 123.46092pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 99--99
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 106--106
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+<26483.jpg, id=509, 150.5625pt x 153.57375pt>
+File: 26483.jpg Graphic file (type jpg)
+ <use 26483.jpg>
+Package pdftex.def Info: 26483.jpg used on input line 106.
+(pdftex.def)             Requested size: 105.39302pt x 107.50089pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 106--106
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [80 <./5073.jpg> <./5079.jpg> <./25665.png> <./25851.png> <./25863.png> <./258
+93.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 111--111
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+<26495.jpg, id=517, 154.32657pt x 157.33781pt>
+File: 26495.jpg Graphic file (type jpg)
+ <use 26495.jpg>
+Package pdftex.def Info: 26495.jpg used on input line 111.
+(pdftex.def)             Requested size: 108.02785pt x 110.13571pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 111--111
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+<26520.jpg, id=518, 192.72pt x 152.06813pt>
+File: 26520.jpg Graphic file (type jpg)
+ <use 26520.jpg>
+Package pdftex.def Info: 26520.jpg used on input line 116.
+(pdftex.def)             Requested size: 134.90306pt x 106.44695pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 116--116
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 121--121
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+<26522.jpg, id=519, 174.6525pt x 165.61874pt>
+File: 26522.jpg Graphic file (type jpg)
+ <use 26522.jpg>
+Package pdftex.def Info: 26522.jpg used on input line 121.
+(pdftex.def)             Requested size: 122.2559pt x 115.93231pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 121--121
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 126--126
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+File: 26566.jpg Graphic file (type jpg)
+<use 26566.jpg>
+Package pdftex.def Info: 26566.jpg used on input line 126.
+(pdftex.def)             Requested size: 115.40535pt x 93.27283pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 126--126
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 130--130
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 134--134
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Underfull \hbox (badness 7064) in paragraph at lines 134--134
+[]\T2A/cmr/m/n/12 Стороны ос-но-ва-ния пра-виль-ной че-ты-рјх-
+ []
+
+<26567.jpg, id=520, 188.95593pt x 125.71968pt>
+File: 26567.jpg Graphic file (type jpg)
+ <use 26567.jpg>
+Package pdftex.def Info: 26567.jpg used on input line 134.
+(pdftex.def)             Requested size: 132.26823pt x 88.00316pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 134--134
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 138--138
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+<27185.jpg, id=521, 147.55125pt x 145.29282pt>
+File: 27185.jpg Graphic file (type jpg)
+ <use 27185.jpg>
+Package pdftex.def Info: 27185.jpg used on input line 138.
+(pdftex.def)             Requested size: 103.28516pt x 101.70427pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 138--138
+[][][]| 
+ []
+
+
+Underfull \vbox (badness 3078) has occurred while \output is active []
+
+ [81 <./26483.jpg> <./26495.jpg> <./26520.jpg> <./26522.jpg> <./26567.jpg>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 142--142
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+<72001.jpg, id=525, 180.675pt x 179.92218pt>
+File: 72001.jpg Graphic file (type jpg)
+ <use 72001.jpg>
+Package pdftex.def Info: 72001.jpg used on input line 142.
+(pdftex.def)             Requested size: 126.47162pt x 125.94466pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 142--142
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 147--147
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 151--151
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+<72397.jpg, id=526, 237.88875pt x 166.37157pt>
+File: 72397.jpg Graphic file (type jpg)
+ <use 72397.jpg>
+Package pdftex.def Info: 72397.jpg used on input line 151.
+(pdftex.def)             Requested size: 142.73433pt x 99.82368pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 151--151
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 156--156
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 160--160
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 164--164
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 168--168
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 172--172
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+<73201.jpg, id=527, 175.40532pt x 111.41624pt>
+File: 73201.jpg Graphic file (type jpg)
+ <use 73201.jpg>
+Package pdftex.def Info: 73201.jpg used on input line 172.
+(pdftex.def)             Requested size: 122.78287pt x 77.99083pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 172--172
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 182--182
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 188--188
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 193--193
+[]\T2A/cmr/bx/n/12 31.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 197--197
+[]\T2A/cmr/bx/n/12 32.| 
+ []
+
+[82 <./27185.jpg> <./72001.jpg> <./72397.jpg> <./73201.jpg>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 201--201
+[]\T2A/cmr/bx/n/12 33.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 207--207
+[]\T2A/cmr/bx/n/12 34.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 211--211
+[]\T2A/cmr/bx/n/12 35.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 214--214
+[]\T2A/cmr/bx/n/12 36.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 217--217
+[]\T2A/cmr/bx/n/12 37.| 
+ []
+
+<76361.jpg, id=531, 233.37187pt x 118.94438pt>
+File: 76361.jpg Graphic file (type jpg)
+ <use 76361.jpg>
+Package pdftex.def Info: 76361.jpg used on input line 217.
+(pdftex.def)             Requested size: 163.35919pt x 83.26048pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 217--217
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 220--220
+[]\T2A/cmr/bx/n/12 38.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 223--223
+[]\T2A/cmr/bx/n/12 39.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 226--226
+[]\T2A/cmr/bx/n/12 40.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 229--229
+[]\T2A/cmr/bx/n/12 41.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 232--232
+[]\T2A/cmr/bx/n/12 42.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 235--235
+[]\T2A/cmr/bx/n/12 43.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 238--238
+[]\T2A/cmr/bx/n/12 44.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 241--241
+[]\T2A/cmr/bx/n/12 45.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 245--245
+[]\T2A/cmr/bx/n/12 46.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 248--248
+[]\T2A/cmr/bx/n/12 47.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 252--252
+[]\T2A/cmr/bx/n/12 48.| 
+ []
+
+<325025.jpg, id=532, 180.675pt x 179.92218pt>
+File: 325025.jpg Graphic file (type jpg)
+ <use 325025.jpg>
+Package pdftex.def Info: 325025.jpg used on input line 252.
+(pdftex.def)             Requested size: 126.47162pt x 125.94466pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 252--252
+[][][]| 
+ []
+
+[83 <./76361.jpg>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 255--255
+[]\T2A/cmr/bx/n/12 49.| 
+ []
+
+<325449.png, id=536, 101.37875pt x 91.34125pt>
+File: 325449.png Graphic file (type png)
+ <use 325449.png>
+Package pdftex.def Info: 325449.png used on input line 255.
+(pdftex.def)             Requested size: 101.3785pt x 91.34102pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 255--255
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 259--259
+[]\T2A/cmr/bx/n/12 50.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 259--259
+[]\T2A/cmr/m/n/12 В пра-виль-ной че-ты-рјх-уголь-ной приз-ме
+ []
+
+<325603.png, id=537, 128.48pt x 110.4125pt>
+File: 325603.png Graphic file (type png)
+ <use 325603.png>
+Package pdftex.def Info: 325603.png used on input line 259.
+(pdftex.def)             Requested size: 128.47968pt x 110.41222pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 259--259
+[][][]| 
+ []
+
+) [84 <./325025.jpg> <./325449.png> <./325603.png>]
+\openout2 = `home_stereom1.aux'.
+
+ (home_stereom1.tex
+<73290.jpg, id=543, 151.3153pt x 179.92218pt>
+File: 73290.jpg Graphic file (type jpg)
+ <use 73290.jpg>
+Package pdftex.def Info: 73290.jpg used on input line 16.
+(pdftex.def)             Requested size: 90.78987pt x 107.95413pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 16--16
+[][][]| 
+ []
+
+<275887.png, id=544, 196.735pt x 197.73875pt>
+File: 275887.png Graphic file (type png)
+ <use 275887.png>
+Package pdftex.def Info: 275887.png used on input line 23.
+(pdftex.def)             Requested size: 157.38818pt x 158.19121pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 23--23
+[][][]| 
+ []
+
+<318148.png, id=545, 127.47626pt x 145.54375pt>
+File: 318148.png Graphic file (type png)
+ <use 318148.png>
+Package pdftex.def Info: 318148.png used on input line 26.
+(pdftex.def)             Requested size: 89.23276pt x 101.87991pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 26--26
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--35
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 38--38
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+) [85
+
+
+ <./73290.jpg> <./275887.png> <./318148.png>]
+\openout2 = `test4.aux'.
+
+ (test4.tex
+<263863.jpg, id=552, 274.77657pt x 214.55156pt>
+File: 263863.jpg Graphic file (type jpg)
+ <use 263863.jpg>
+Package pdftex.def Info: 263863.jpg used on input line 10.
+(pdftex.def)             Requested size: 164.8672pt x 128.73192pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 10--10
+[][][]| 
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 30--30
+[]\T2A/cmr/m/n/12 На ри-сун-ке изоб-ра-жјн гра-фик функ-ции
+ []
+
+<323193.png, id=553, 179.67125pt x 123.46124pt>
+File: 323193.png Graphic file (type png)
+ <use 323193.png>
+Package pdftex.def Info: 323193.png used on input line 30.
+(pdftex.def)             Requested size: 179.67079pt x 123.46092pt.
+
+Overfull \hbox (14.93709pt too wide) in paragraph at lines 30--30
+[][][]| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 42--42
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 46--46
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 50--50
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 63--63
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
+[][]
+ []
+
+[86
+
+
+ <./263863.jpg> <./323193.png>]
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 69--69
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 70--70
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--75
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 75--75
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--83
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 83--83
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--93
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 93--93
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--103
+[][]
+ []
+
+
+Overfull \hbox (4.55862pt too wide) in paragraph at lines 103--103
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+) [87] (stem11.aux (test0.aux) (pt1.aux) (pt2.aux) (probability.aux) (geom1.aux
+) (test1.aux) (geom2.aux) (text1.aux) (text2.aux) (test2.aux) (trigonsimple.aux
+) (trigonequations1.aux) (home_trig.aux) (trigonequations2.aux) (test3.aux)
+(derivativ.aux) (derivativ2.aux) (home_derivative.aux) (stereom1.aux)
+(home_stereom1.aux) (test4.aux)) ) 
+Here is how much of TeX's memory you used:
+ 4945 strings out of 493335
+ 62836 string characters out of 3128498
+ 135381 words of memory out of 3000000
+ 7931 multiletter control sequences out of 15000+200000
+ 21296 words of font info for 60 fonts, out of 3000000 for 9000
+ 1302 hyphenation exceptions out of 8191
+ 38i,24n,33p,679b,386s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/r.alishev/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Users/r.alishev/AppData/
+Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbsy10.pfb><C:/Users/
+r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra
+/cmbsy8.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmbx8.pfb><C:/Users/r.alishev/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/r.alish
+ev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+<C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
+ts/cm/cmmi6.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/r.alishev/AppData/L
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb><C:/Use
+rs/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mr12.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmr6.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/r.alishev/AppData/Local/Progra
+ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/r.alishev/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Use
+rs/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symb
+ols/msam10.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type
+1/public/amsfonts/symbols/msbm10.pfb><C:/Users/r.alishev/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1200.pfb><C:/Users/r.alishev/AppDat
+a/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/
+r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfcc120
+0.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/
+cm-super/sfrm0900.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/cm-super/sfrm1000.pfb><C:/Users/r.alishev/AppData/Local/Program
+s/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/r.alishev/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb><C:/Users
+/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfti12
+00.pfb>
+Output written on stem11.pdf (87 pages, 1990138 bytes).
+PDF statistics:
+ 642 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 761 words of extra memory for PDF output out of 10000 (max. 10000000)
+

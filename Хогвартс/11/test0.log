@@ -1,0 +1,28 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.12)  22 JUL 2016 11:07
+entering extended mode
+**"C:/Users/r.alishev/Dropbox/2017/11 класс/В часть/New folder/test0
+.tex"
+
+("C:/Users/r.alishev/Dropbox/2017/11 класс/В часть/New folder/test0.
+tex"
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+! Undefined control sequence.
+l.1 \section
+            *{Вступительный тест.}
+? 
+! Emergency stop.
+l.1 \section
+            *{Вступительный тест.}
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 7 strings out of 493335
+ 292 string characters out of 3128498
+ 53211 words of memory out of 3000000
+ 3635 multiletter control sequences out of 15000+200000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5i,0n,1p,133b,8s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

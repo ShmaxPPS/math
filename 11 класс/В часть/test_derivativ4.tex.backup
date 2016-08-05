@@ -1,0 +1,74 @@
+\documentclass[a4paper,10pt,twocolumn]{amsart}
+
+\usepackage{osnova}
+
+
+\newcommand{\ans}{\it{Ответ: }}
+%нет ответов
+\newcommand{\htext}[1]{\par{}}
+\newcommand{\hans}[1]{\par{}}
+
+%ответы
+%\newcommand{\htext}[1]{#1}
+%\newcommand{\hans}[1]{\par{\ans $#1$}}
+
+\begin{document}
+
+
+
+\textbf{ \Large 
+\begin{center}
+\Large Вариант I.
+\end{center}
+Фамилия Имя:} \vskip5mm  \setcounter{z}{0}
+
+\large
+
+
+\zad (№ 9359)
+На рисунке изображён график функции $y=f(x)$ и касательная к нему в точке с абсциссой $x_0$. Найдите значение производной функции $f(x)$ в точке $x_0$.
+\begin{center}
+ \includegraphics[scale=0.7]{9359.png}
+ \end{center}
+
+ {\ans}
+
+
+\zad Найдите точки минимума функции $$f(x)=3x^4+2x^3-18 \cdot
+\dfrac{16-8x^2+x^4}{x^2-4}.$$
+
+ {\ans}
+
+ 
+ 
+ 
+ 
+
+\newpage
+\textbf{ \Large 
+\begin{center}
+\Large Вариант II.
+\end{center}
+Фамилия Имя:} \vskip5mm  \setcounter{z}{0}
+
+\large
+
+\zad    На рисунке изображён график функции $y=f(x)$ и касательная к нему в точке с абсциссой $x_0$. Найдите значение производной функции $f(x)$ в точке $x_0$.
+\begin{center}
+ \includegraphics[scale=0.7]{9161.png}
+ \end{center}
+
+{\ans}
+
+
+\zad  Найдите точки максимума  функции
+$$f(x)=3x^2 \cdot \dfrac{16-8x^2+x^4}{4-x^2}-2x^3+6x^2.$$
+
+{\ans}
+
+
+
+
+
+
+\end{document}

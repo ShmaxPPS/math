@@ -1,0 +1,781 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2010.10.13)  11 MAR 2016 15:46
+entering extended mode
+**sbornikzadach.tex
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\sbornikzadach.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\ams\classes\amsart.cls
+Document Class: amsart 2009/07/02 v2.20.1
+\linespacing=\dimen102
+\normalparindent=\dimen103
+\normaltopskip=\skip41
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks15
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 388.
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+\copyins=\insert233
+\abstractbox=\box28
+\listisep=\skip45
+\c@part=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\captionindent=\dimen113
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+)
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\osnova.sty"
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\base\fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\base\inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\cyrillic\cp1251.def
+File: cp1251.def 1999/11/16 v1.0d Input encoding file
+))
+(C:\Users\Ravil\_Full_Tex\texmf\tex\generic\babel\babel.sty
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\00miktex\bblopts.cfg
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+(C:\Users\Ravil\_Full_Tex\texmf\tex\generic\babel\russianb.ldf
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\generic\babel\babel.def
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen114
+)
+Package babel Info: Making " an active character on input line 199.
+))
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks27
+)
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2010/09/14 v0.05b Graphics/color for pdfTeX
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+\c@z=\count101
+\c@p=\count102
+\c@a=\count103
+\c@b=\count104
+\c@c=\count105
+\c@v=\count106
+\cellsize=\dimen117
+\lwidth=\dimen118
+)
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\sbornikzadach.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+
+(C:\Users\Ravil\_Full_Tex\texmf\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+(C:\Users\Ravil\_Full_Tex\texmf\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count107
+\scratchdimen=\dimen119
+\scratchbox=\box29
+\nofMPsegments=\count108
+\nofMParguments=\count109
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count110
+\MPscratchDim=\dimen120
+\MPnumerator=\count111
+\everyMPtoPDFconversion=\toks29
+) ("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\1.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{C:/Users/Ravil/_Full_Tex/texmf/pdftex/config/pdftex.map}
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3])
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\2.tex" [4
+
+]
+<img512717n1.png, id=20, 610.28pt x 416.55624pt>
+File: img512717n1.png Graphic file (type png)
+ <use img512717n1.png>
+<img512737n1.png, id=21, 608.2725pt x 416.55624pt>
+File: img512737n1.png Graphic file (type png)
+ <use img512737n1.png>
+<innerimg0.png, id=22, 426.59375pt x 357.335pt>
+File: innerimg0.png Graphic file (type png)
+ <use innerimg0.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5
+
+ <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/img512717n1.png (PNG copy)>
+ <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/img512737n1.png (PNG copy)>
+]
+<26863.png, id=26, 702.7053pt x 470.7186pt>
+File: 26863.png Graphic file (type png)
+ <use 26863.png>
+<26864.png, id=27, 514.92375pt x 398.48875pt>
+File: 26864.png Graphic file (type png)
+ <use 26864.png> [6 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/innerimg
+0.png (PNG copy)> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/26863.png 
+(PNG copy)> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/26864.png (PNG c
+opy)>]
+<26866.png, id=34, 702.7053pt x 470.7186pt>
+File: 26866.png Graphic file (type png)
+ <use 26866.png>
+<26871.png, id=35, 417.56pt x 262.9825pt>
+File: 26871.png Graphic file (type png)
+ <use 26871.png>
+<26872.png, id=36, 417.56pt x 262.9825pt>
+File: 26872.png Graphic file (type png)
+ <use 26872.png>
+Underfull \vbox (badness 2351) has occurred while \output is active []
+
+ [7 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/26866.png (PNG copy)> <C
+:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/26871.png (PNG copy)> <C:/User
+s/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/26872.png (PNG copy)>]
+<26873.png, id=44, 416.55624pt x 262.9825pt>
+File: 26873.png Graphic file (type png)
+ <use 26873.png>
+<27516.png, id=45, 398.48875pt x 371.3875pt>
+File: 27516.png Graphic file (type png)
+ <use 27516.png>
+<263863.JPG, id=46, 274.77657pt x 214.55156pt>
+File: 263863.JPG Graphic file (type jpg)
+ <use 263863.JPG>
+Underfull \vbox (badness 1661) has occurred while \output is active []
+
+ [8 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/26873.png (PNG copy)> <C
+:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/27516.png (PNG copy)> <C:/User
+s/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/263863.JPG>]
+<263864.JPG, id=52, 214.55156pt x 213.79875pt>
+File: 263864.JPG Graphic file (type jpg)
+ <use 263864.JPG>
+<263865.JPG, id=53, 268.75406pt x 218.31563pt>
+File: 263865.JPG Graphic file (type jpg)
+ <use 263865.JPG>
+<263866.JPG, id=54, 299.61937pt x 217.5628pt>
+File: 263866.JPG Graphic file (type jpg)
+ <use 263866.JPG>) [9 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/263864
+.JPG> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/263865.JPG> <C:/Users/
+Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/263866.JPG>] ("C:\Users\Ravil\Dropbox\
+2016\Подготовка к ЕГЭ 2016\3.tex"
+<5085.png, id=58, 179.67125pt x 159.59625pt>
+File: 5085.png Graphic file (type png)
+ <use 5085.png>
+<5283.png, id=60, 219.82124pt x 139.52126pt>
+File: 5283.png Graphic file (type png)
+ <use 5283.png>
+<21499.png, id=61, 157.58875pt x 129.48375pt>
+File: 21499.png Graphic file (type png)
+ <use 21499.png>
+<21699.png, id=62, 129.48375pt x 185.69376pt>
+File: 21699.png Graphic file (type png)
+ <use 21699.png>
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+
+<21899.png, id=63, 114.55563pt x 171.44904pt>
+File: 21899.png Graphic file (type png)
+ <use 21899.png>
+<22301.png, id=64, 186.28215pt x 101.178pt>
+File: 22301.png Graphic file (type png)
+ <use 22301.png>
+<22501.png, id=65, 186.28215pt x 143.29396pt>
+File: 22501.png Graphic file (type png)
+ <use 22501.png>
+<24099.png, id=66, 186.28215pt x 171.95276pt>
+File: 24099.png Graphic file (type png)
+ <use 24099.png>
+<5183.png, id=67, 159.59625pt x 159.59625pt>
+File: 5183.png Graphic file (type png)
+ <use 5183.png> [10
+
+ <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/5085.png> <C:/Users/Ravil/D
+ropbox/2016/Подготовка к ЕГЭ 2016/5283.png> <C:/Users/Ravil/Dropbox/2016/Подгот
+овка к ЕГЭ 2016/21499.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/2
+1699.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/21899.png> <C:/Use
+rs/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/22301.png> <C:/Users/Ravil/Dropbox/
+2016/Подготовка к ЕГЭ 2016/22501.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к
+ ЕГЭ 2016/24099.png>] <5317.png, id=82, 159.59625pt x 179.67125pt>
+File: 5317.png Graphic file (type png)
+ <use 5317.png>
+<24239.png, id=83, 114.4275pt x 114.4275pt>
+File: 24239.png Graphic file (type png)
+ <use 24239.png>
+<24271.png, id=84, 175.68073pt x 175.68073pt>
+File: 24271.png Graphic file (type png)
+ <use 24271.png>
+<24273.png, id=85, 175.68073pt x 175.68073pt>
+File: 24273.png Graphic file (type png)
+ <use 24273.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<248301.png, id=86, 117.43875pt x 117.43875pt>
+File: 248301.png Graphic file (type png)
+ <use 248301.png>
+<252335.png, id=87, 145.54375pt x 131.49126pt>
+File: 252335.png Graphic file (type png)
+ <use 252335.png>
+<252345.png, id=88, 103.38625pt x 145.54375pt>
+File: 252345.png Graphic file (type png)
+ <use 252345.png>
+<252347.png, id=89, 160.6pt x 145.54375pt>
+File: 252347.png Graphic file (type png)
+ <use 252347.png>
+Underfull \vbox (badness 4899) has occurred while \output is active []
+
+ [11 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/5183.png> <C:/Users/Rav
+il/Dropbox/2016/Подготовка к ЕГЭ 2016/5317.png> <C:/Users/Ravil/Dropbox/2016/По
+дготовка к ЕГЭ 2016/24239.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 20
+16/24271.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/24273.png> <C:
+/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/248301.png> <C:/Users/Ravil/Dro
+pbox/2016/Подготовка к ЕГЭ 2016/252335.png> <C:/Users/Ravil/Dropbox/2016/Подгот
+овка к ЕГЭ 2016/252345.png>] <256455.png, id=101, 145.54375pt x 145.54375pt>
+File: 256455.png Graphic file (type png)
+
+<use 256455.png> <258595.png, id=102, 145.54375pt x 89.33376pt>
+File: 258595.png Graphic file (type png)
+
+<use 258595.png> <263375.png, id=103, 160.6pt x 89.33376pt>
+File: 263375.png Graphic file (type png)
+ <use 263375.png>
+<263415.png, id=104, 145.54375pt x 174.6525pt>
+File: 263415.png Graphic file (type png)
+ <use 263415.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<263417.png, id=105, 103.38625pt x 117.43875pt>
+File: 263417.png Graphic file (type png)
+ <use 263417.png>
+<263475.png, id=106, 117.43875pt x 131.49126pt>
+File: 263475.png Graphic file (type png)
+ <use 263475.png>
+<263479.png, id=107, 145.54375pt x 159.59625pt>
+File: 263479.png Graphic file (type png)
+ <use 263479.png>
+<315137.png, id=108, 174.6525pt x 174.6525pt>
+File: 315137.png Graphic file (type png)
+ <use 315137.png>
+Underfull \vbox (badness 4242) has occurred while \output is active []
+
+ [12 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/252347.png> <C:/Users/R
+avil/Dropbox/2016/Подготовка к ЕГЭ 2016/256455.png> <C:/Users/Ravil/Dropbox/201
+6/Подготовка к ЕГЭ 2016/258595.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к Е
+ГЭ 2016/263375.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/263415.p
+ng> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/263417.png> <C:/Users/Ra
+vil/Dropbox/2016/Подготовка к ЕГЭ 2016/263475.png> <C:/Users/Ravil/Dropbox/2016
+/Подготовка к ЕГЭ 2016/263479.png>] <322637.png, id=121, 118.4425pt x 118.4425p
+t>
+File: 322637.png Graphic file (type png)
+
+<use 322637.png> <322735.png, id=122, 118.4425pt x 118.4425pt>
+File: 322735.png Graphic file (type png)
+
+<use 322735.png> <322737.png, id=123, 146.5475pt x 146.5475pt>
+File: 322737.png Graphic file (type png)
+
+<use 322737.png> <322825.png, id=124, 174.6525pt x 174.6525pt>
+File: 322825.png Graphic file (type png)
+
+<use 322825.png>
+Underfull \vbox (badness 1960) has occurred while \output is active []
+
+
+<322829.png, id=125, 174.6525pt x 174.6525pt>
+File: 322829.png Graphic file (type png)
+ <use 322829.png>
+Underfull \hbox (badness 1796) in paragraph at lines 267--269
+[]\T2A/cmr/bx/n/10.95 32. \T2A/cmr/m/n/10.95 (ќ 317447) Пло-щадь па-рал-ле-ло-г
+рам-ма
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 270--272
+[]\T2A/cmr/bx/n/10.95 33. \T2A/cmr/m/n/10.95 (ќ 319065) Пло-щадь па-рал-ле-ло-г
+рам-ма
+ []
+
+
+Underfull \hbox (badness 1796) in paragraph at lines 273--275
+[]\T2A/cmr/bx/n/10.95 34. \T2A/cmr/m/n/10.95 (ќ 319161) Пло-щадь па-рал-ле-ло-г
+рам-ма
+ []
+
+) [13 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/315137.png> <C:/Users/
+Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/322637.png> <C:/Users/Ravil/Dropbox/20
+16/Подготовка к ЕГЭ 2016/322735.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к 
+ЕГЭ 2016/322737.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/322825.
+png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/322829.png>]
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\4.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+<323015.png, id=146, 219.82124pt x 190.7125pt>
+File: 323015.png Graphic file (type png)
+ <use 323015.png>
+Overfull \hbox (87.77988pt too wide) in paragraph at lines 240--245
+[][]  [] 
+ []
+
+) [17 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/323015.png>]
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\5.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [18
+
+]
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\6.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+
+]
+<27452.jpg, id=161, 171.64125pt x 169.38281pt>
+File: 27452.jpg Graphic file (type jpg)
+ <use 27452.jpg>
+<27454.jpg, id=162, 171.64125pt x 169.38281pt>
+File: 27454.jpg Graphic file (type jpg)
+ <use 27454.jpg> [20 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/27452.j
+pg> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/27454.jpg>]
+<27804.jpg, id=166, 174.6525pt x 172.39406pt>
+File: 27804.jpg Graphic file (type jpg)
+ <use 27804.jpg>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/27804.jpg>]
+<27885.jpg, id=170, 187.45032pt x 176.91093pt>
+File: 27885.jpg Graphic file (type jpg)
+ <use 27885.jpg>
+<27889.jpg, id=171, 180.675pt x 178.41656pt>
+File: 27889.jpg Graphic file (type jpg)
+ <use 27889.jpg>
+Underfull \vbox (badness 1297) has occurred while \output is active []
+
+ [22 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/27885.jpg> <C:/Users/Ra
+vil/Dropbox/2016/Подготовка к ЕГЭ 2016/27889.jpg>]
+<27951.jpg, id=175, 180.675pt x 178.41656pt>
+File: 27951.jpg Graphic file (type jpg)
+ <use 27951.jpg>) [23 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/27951.
+jpg>]
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\7.tex"
+<6877.png, id=179, 241.90375pt x 155.58125pt>
+File: 6877.png Graphic file (type png)
+ <use 6877.png>
+<6881.png, id=180, 212.795pt x 170.6375pt>
+File: 6881.png Graphic file (type png)
+ <use 6881.png>
+<6997.png, id=181, 226.8475pt x 170.6375pt>
+File: 6997.png Graphic file (type png)
+ <use 6997.png>
+<7117.png, id=182, 226.8475pt x 141.52875pt>
+File: 7117.png Graphic file (type png)
+ <use 7117.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<7119.png, id=183, 254.9525pt x 170.6375pt>
+File: 7119.png Graphic file (type png)
+ <use 7119.png>
+<7357.png, id=184, 240.9pt x 155.58125pt>
+File: 7357.png Graphic file (type png)
+ <use 7357.png>
+<7557.png, id=185, 226.8475pt x 170.6375pt>
+File: 7557.png Graphic file (type png)
+ <use 7557.png>
+Underfull \vbox (badness 2626) has occurred while \output is active []
+
+ [24
+
+ <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/6877.png> <C:/Users/Ravil/D
+ropbox/2016/Подготовка к ЕГЭ 2016/6881.png> <C:/Users/Ravil/Dropbox/2016/Подгот
+овка к ЕГЭ 2016/6997.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/71
+17.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/7119.png> <C:/Users/
+Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/7357.png> <C:/Users/Ravil/Dropbox/2016
+/Подготовка к ЕГЭ 2016/7557.png>] <7563.png, id=196, 212.795pt x 156.585pt>
+File: 7563.png Graphic file (type png)
+
+<use 7563.png> <6427.jpg, id=197, 365.86688pt x 261.97874pt>
+File: 6427.jpg Graphic file (type jpg)
+ <use 6427.jpg>
+<7957.png, id=198, 355.3275pt x 156.585pt>
+File: 7957.png Graphic file (type png)
+ <use 7957.png>
+<7961.png, id=199, 369.38pt x 169.63374pt>
+File: 7961.png Graphic file (type png)
+ <use 7961.png>
+<8157.png, id=200, 240.9pt x 170.6375pt>
+File: 8157.png Graphic file (type png)
+ <use 8157.png>
+<8163.png, id=201, 226.8475pt x 141.52875pt>
+File: 8163.png Graphic file (type png)
+ <use 8163.png>
+<8357.png, id=202, 283.0575pt x 155.58125pt>
+File: 8357.png Graphic file (type png)
+ <use 8357.png>
+<8557.png, id=203, 254.9525pt x 141.52875pt>
+File: 8557.png Graphic file (type png)
+ <use 8557.png>
+Underfull \vbox (badness 4492) has occurred while \output is active []
+
+ [25 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/7563.png> <C:/Users/Rav
+il/Dropbox/2016/Подготовка к ЕГЭ 2016/6427.jpg> <C:/Users/Ravil/Dropbox/2016/По
+дготовка к ЕГЭ 2016/7957.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 201
+6/7961.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/8157.png> <C:/Us
+ers/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/8163.png> <C:/Users/Ravil/Dropbox/
+2016/Подготовка к ЕГЭ 2016/8357.png>] <8563.png, id=214, 254.9525pt x 156.585pt
+>
+File: 8563.png Graphic file (type png)
+
+<use 8563.png> <8957.png, id=215, 226.8475pt x 170.6375pt>
+File: 8957.png Graphic file (type png)
+ <use 8957.png>
+<8965.png, id=216, 212.795pt x 170.6375pt>
+File: 8965.png Graphic file (type png)
+ <use 8965.png>
+<9157.png, id=217, 184.69pt x 183.68625pt>
+File: 9157.png Graphic file (type png)
+ <use 9157.png>
+<9161.png, id=218, 155.58125pt x 169.63374pt>
+File: 9161.png Graphic file (type png)
+ <use 9161.png>
+<9359.png, id=219, 198.7425pt x 141.52875pt>
+File: 9359.png Graphic file (type png)
+ <use 9359.png>
+<54801.png, id=220, 443.6575pt x 357.335pt>
+File: 54801.png Graphic file (type png)
+ <use 54801.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/8557.png> <C:/Users/Rav
+il/Dropbox/2016/Подготовка к ЕГЭ 2016/8563.png> <C:/Users/Ravil/Dropbox/2016/По
+дготовка к ЕГЭ 2016/8957.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 201
+6/8965.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/9157.png> <C:/Us
+ers/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/9161.png> <C:/Users/Ravil/Dropbox/
+2016/Подготовка к ЕГЭ 2016/9359.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<317547.png, id=231, 278.03876pt x 244.915pt>
+File: 317547.png Graphic file (type png)
+ <use 317547.png>
+<317745.png, id=232, 278.03876pt x 230.8625pt>
+File: 317745.png Graphic file (type png)
+ <use 317745.png>
+<317849.png, id=233, 278.03876pt x 164.615pt>
+File: 317849.png Graphic file (type png)
+ <use 317849.png> [27 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/54801.
+png (PNG copy)> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/317547.png> 
+<C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/317745.png> <C:/Users/Ravil/
+Dropbox/2016/Подготовка к ЕГЭ 2016/317849.png>] <317949.png, id=241, 259.97125p
+t x 111.41624pt>
+File: 317949.png Graphic file (type png)
+ <use 317949.png>
+<318045.png, id=242, 259.97125pt x 137.51375pt>
+File: 318045.png Graphic file (type png)
+ <use 318045.png>
+<323081.png, id=243, 259.97125pt x 207.77625pt>
+File: 323081.png Graphic file (type png)
+ <use 323081.png>
+<323179.png, id=244, 203.76125pt x 152.57pt>
+File: 323179.png Graphic file (type png)
+ <use 323179.png>
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<323183.png, id=245, 207.77625pt x 95.35625pt>
+File: 323183.png Graphic file (type png)
+ <use 323183.png>
+<323187.png, id=246, 207.77625pt x 95.35625pt>
+File: 323187.png Graphic file (type png)
+ <use 323187.png>
+<323383.png, id=247, 308.15125pt x 112.42pt>
+File: 323383.png Graphic file (type png)
+ <use 323383.png>
+<323385.png, id=248, 308.15125pt x 59.22125pt>
+File: 323385.png Graphic file (type png)
+ <use 323385.png>) [28 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/31794
+9.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/318045.png> <C:/Users
+/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/323081.png> <C:/Users/Ravil/Dropbox/2
+016/Подготовка к ЕГЭ 2016/323179.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к
+ ЕГЭ 2016/323183.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/323187
+.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/323383.png> <C:/Users/
+Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/323385.png>] ("C:\Users\Ravil\Dropbox\
+2016\Подготовка к ЕГЭ 2016\8.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31]
+<269905.png, id=270, 343.2825pt x 215.80624pt>
+File: 269905.png Graphic file (type png)
+ <use 269905.png> [32 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/269905
+.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33]
+<280979.png, id=278, 158.5925pt x 241.90375pt>
+File: 280979.png Graphic file (type png)
+ <use 280979.png>
+<282177.png, id=279, 240.9pt x 243.91125pt>
+File: 282177.png Graphic file (type png)
+ <use 282177.png>) [34 <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/28097
+9.png> <C:/Users/Ravil/Dropbox/2016/Подготовка к ЕГЭ 2016/282177.png>]
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\9.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+) [35
+
+]
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\10.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [38]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [40])
+[41] ("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\11.tex"
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [44]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [45])
+[46] ("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\12.tex") [47
+
+]
+("C:\Users\Ravil\Dropbox\2016\Подготовка к ЕГЭ 2016\sbornikzadach.aux") ) 
+Here is how much of TeX's memory you used:
+ 3772 strings out of 494019
+ 45317 string characters out of 3150490
+ 110603 words of memory out of 3000000
+ 6742 multiletter control sequences out of 15000+200000
+ 21161 words of font info for 58 fonts, out of 3000000 for 9000
+ 875 hyphenation exceptions out of 8191
+ 34i,8n,32p,867b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Us
+ers/Ravil/_Full_Tex/texmf/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<C:/Users/R
+avil/_Full_Tex/texmf/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Ravil/
+_Full_Tex/texmf/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Ravil/_Full
+_Tex/texmf/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Ravil/_Full_Tex/t
+exmf/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Ravil/_Full_Tex/texmf/f
+onts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/t
+ype1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/p
+ublic/amsfonts/cm/cmmi9.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/amsfon
+ts/cm/cmr5.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/amsfonts/cm/c
+mr6.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/amsfonts/cm/cmr7.pfb
+><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Us
+ers/Ravil/_Full_Tex/texmf/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/Rav
+il/_Full_Tex/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Ravil/_F
+ull_Tex/texmf/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/Ravil/_Full_Te
+x/texmf/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Ravil/_Full_Tex/texm
+f/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Ravil/_Full_Tex/texmf/font
+s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type
+1/public/amsfonts/cm/cmsy9.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/publ
+ic/cm-super/sfbx0900.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/cm-
+super/sfbx1000.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/cm-super/
+sfbx1095.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/cm-super/sfcc09
+00.pfb><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/cm-super/sfcc1000.pfb
+><C:/Users/Ravil/_Full_Tex/texmf/fonts/type1/public/cm-super/sfcc1095.pfb><C:/U
+sers/Ravil/_Full_Tex/texmf/fonts/type1/public/cm-super/sfrm0500.pfb><C:/Users/R
+avil/_Full_Tex/texmf/fonts/type1/public/cm-super/sfrm0700.pfb><C:/Users/Ravil/_
+Full_Tex/texmf/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Users/Ravil/_Full_T
+ex/texmf/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Users/Ravil/_Full_Tex/tex
+mf/fonts/type1/public/cm-super/sfrm1095.pfb>
+Output written on sbornikzadach.pdf (47 pages, 1350047 bytes).
+PDF statistics:
+ 435 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 436 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,1394 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.7.12)  22 JUL 2016 09:58
+entering extended mode
+**./stem11.tex
+(stem11.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amscls\amsart.
+cls"
+Document Class: amsart 2015/03/04 v2.20.2
+\linespacing=\dimen102
+\normalparindent=\dimen103
+\normaltopskip=\skip41
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmat
+h.sty"
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip42
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstex
+t.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen
+.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen104
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy
+.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn
+.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count79
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count80
+\leftroot@=\count81
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count82
+\DOTSCASE@=\count83
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count84
+\c@MaxMatrixCols=\count85
+\dotsspace@=\muskip10
+\c@parentequation=\count86
+\dspbrk@lvl=\count87
+\tag@help=\toks15
+\row@=\count88
+\column@=\count89
+\maxfields@=\count90
+\andhelp@=\toks16
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks17
+\multlinegap=\skip43
+\multlinetaggap=\skip44
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 388.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.
+fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amsfo
+nts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+\copyins=\insert199
+\abstractbox=\box28
+\listisep=\skip45
+\c@part=\count91
+\c@section=\count92
+\c@subsection=\count93
+\c@subsubsection=\count94
+\c@paragraph=\count95
+\c@subparagraph=\count96
+\c@figure=\count97
+\c@table=\count98
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\captionindent=\dimen113
+\thm@style=\toks19
+\thm@bodyfont=\toks20
+\thm@headfont=\toks21
+\thm@notefont=\toks22
+\thm@headpunct=\toks23
+\thm@preskip=\skip48
+\thm@postskip=\skip49
+\thm@headsep=\skip50
+\dth@everypar=\toks24
+) (osnova.sty
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.s
+ty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2aen
+c.def"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 105.
+
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\t2acm
+r.fd"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.
+sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks25
+\inpenc@posthook=\toks26
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cyrillic\cp125
+1.def"
+File: cp1251.def 2014/10/28 v1.0d Input encoding file
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
+sty"
+Package: babel 2016/04/23 3.9r The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.
+cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-russian\
+russianb.ldf"
+Language: russianb 2016/02/18 1.3h Russian support for the Babel system
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
+def"
+File: babel.def 2016/04/23 3.9r Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen114
+)
+Package babel Info: Making " an active character on input line 111.
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssy
+mb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graph
+icx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyva
+l.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks27
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graph
+ics.sty"
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.
+sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\graph
+ics.cfg"
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\p
+dftex.def"
+File: pdftex.def 2016/07/01 v0.06i Graphics/color for pdfTeX
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\inf
+warerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ltx
+cmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count100
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+\c@z=\count101
+\c@p=\count102
+\c@a=\count103
+\c@b=\count104
+\c@c=\count105
+\c@v=\count106
+\cellsize=\dimen117
+\lwidth=\dimen118
+) (wrapfig.sty
+\wrapoverhang=\dimen119
+\WF@size=\dimen120
+\c@WF@wrappedlines=\count107
+\WF@box=\box29
+\WF@everypar=\toks28
+Package: wrapfig 2003/01/31  v 3.6
+) (stem11.aux (pt1.aux) (pt2.aux) (probability.aux))
+\openout1 = `stem11.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.
+fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.
+fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pd
+f.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count108
+\scratchdimen=\dimen121
+\scratchbox=\box30
+\nofMPsegments=\count109
+\nofMParguments=\count110
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count111
+\MPscratchDim=\dimen122
+\MPnumerator=\count112
+\makeMPintoPDFobject=\count113
+\everyMPtoPDFconversion=\toks30
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdf
+texcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifl
+uatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifp
+df.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epsto
+pdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfex
+t.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvd
+efinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvopt
+ions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvs
+etkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\r.alishev\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ete
+xcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\openout2 = `pt1.aux'.
+
+ (pt1.tex
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 15--17
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 17--23
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 23--25
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 25--37
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 37--49
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 49--63
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 63--65
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 65--81
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 81--85
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 85--85
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 85--93
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 93--93
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 93--95
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 95--95
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 95--97
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 97--97
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 97--103
+[][]
+ []
+
+[1
+
+{C:/Users/r.alishev/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 103--103
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 103--103
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 103--103
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 103--104
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 114--116
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 116--119
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 119--121
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 121--125
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 125--128
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 128--131
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 131--134
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 134--137
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 137--140
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 140--140
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 140--142
+[][]
+ []
+
+[2]
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 142--142
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 142--144
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 144--144
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 144--146
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 146--146
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 146--148
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 148--148
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 148--150
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 150--150
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 150--152
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 152--152
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 152--154
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 154--154
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 154--156
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 156--156
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 156--158
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 158--158
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 158--161
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 161--161
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 161--163
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 163--163
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 163--166
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 166--166
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 166--168
+[][]
+ []
+
+[3]
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 168--168
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 168--170
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 170--170
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 170--173
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 173--173
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 173--175
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 175--175
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 175--179
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 179--179
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 179--183
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 183--183
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 183--186
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 186--186
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 186--186
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 186--186
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+)
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 186--21
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--21
+
+ []
+
+[4]
+\openout2 = `pt2.aux'.
+
+ (pt2.tex
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 10--14
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 14--19
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 19--26
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 26--30
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 30--39
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 39--45
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 45--46
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 75--77
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 77--79
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 79--81
+[][]
+ []
+
+[5
+
+
+]
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 81--83
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 83--88
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 88--94
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 94--97
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 97--100
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 100--102
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 102--102
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 102--104
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 104--104
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 104--106
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 106--106
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 106--107
+[][]
+ []
+
+
+Underfull \vbox (badness 2809) has occurred while \output is active []
+
+ [6]
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 107--107
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 107--108
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 114--114
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 114--115
+[][] 
+ []
+
+<323015.png, id=26, 219.82124pt x 190.7125pt>
+File: 323015.png Graphic file (type png)
+ <use 323015.png>
+Package pdftex.def Info: 323015.png used on input line 116.
+(pdftex.def)             Requested size: 219.8207pt x 190.71202pt.
+) [7 <./323015.png>]
+\openout2 = `probability.aux'.
+
+ (probability.tex
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 9--12
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 12--15
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 15--18
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 18--21
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 21--24
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 24--27
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 27--30
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 30--33
+[][]
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 33--36
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 36--36
+[]\T2A/cmr/bx/n/12 10.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 36--39
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 39--39
+[]\T2A/cmr/bx/n/12 11.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 39--42
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 42--42
+[]\T2A/cmr/bx/n/12 12.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 42--45
+[][]
+ []
+
+[8
+
+
+]
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 45--45
+[]\T2A/cmr/bx/n/12 13.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 45--49
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 49--49
+[]\T2A/cmr/bx/n/12 14.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 49--56
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 56--56
+[]\T2A/cmr/bx/n/12 15.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 56--59
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 59--59
+[]\T2A/cmr/bx/n/12 16.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 59--62
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 62--62
+[]\T2A/cmr/bx/n/12 17.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 62--65
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 65--65
+[]\T2A/cmr/bx/n/12 18.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 65--68
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 68--68
+[]\T2A/cmr/bx/n/12 19.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 68--71
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 71--71
+[]\T2A/cmr/bx/n/12 20.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 71--74
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 74--74
+[]\T2A/cmr/bx/n/12 21.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 74--77
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 77--77
+[]\T2A/cmr/bx/n/12 22.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 77--80
+[][]
+ []
+
+
+Underfull \vbox (badness 3078) has occurred while \output is active []
+
+ [9]
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 80--80
+[]\T2A/cmr/bx/n/12 23.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 80--83
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 83--83
+[]\T2A/cmr/bx/n/12 24.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 83--86
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 86--86
+[]\T2A/cmr/bx/n/12 25.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 86--89
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 89--89
+[]\T2A/cmr/bx/n/12 26.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 89--92
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 92--92
+[]\T2A/cmr/bx/n/12 27.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 92--95
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 95--95
+[]\T2A/cmr/bx/n/12 28.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 95--98
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 98--98
+[]\T2A/cmr/bx/n/12 29.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 98--101
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 101--101
+[]\T2A/cmr/bx/n/12 30.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 101--104
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 104--104
+[]\T2A/cmr/bx/n/12 31.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 104--107
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 107--107
+[]\T2A/cmr/bx/n/12 32.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 107--110
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 110--110
+[]\T2A/cmr/bx/n/12 33.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 110--113
+[][]
+ []
+
+[10]
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 113--113
+[]\T2A/cmr/bx/n/12 34.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 113--116
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 116--116
+[]\T2A/cmr/bx/n/12 35.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 116--119
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 119--119
+[]\T2A/cmr/bx/n/12 36.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 119--122
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 122--122
+[]\T2A/cmr/bx/n/12 37.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 122--129
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 129--129
+[]\T2A/cmr/bx/n/12 38.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 129--132
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 132--132
+[]\T2A/cmr/bx/n/12 39.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 132--135
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 135--135
+[]\T2A/cmr/bx/n/12 40.| 
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 135--135
+[]\T2A/cmr/m/n/12 По от-зы-вам по-ку-па-те-лей Ва-си-лий Ва-си-лье-вич оце-нил 
+на-дјж-ность двух интернет-
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 135--138
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 138--138
+[]\T2A/cmr/bx/n/12 41.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 138--141
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 141--141
+[]\T2A/cmr/bx/n/12 42.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 141--144
+[][]
+ []
+
+
+Underfull \vbox (badness 5288) has occurred while \output is active []
+
+ [11]
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 144--144
+[]\T2A/cmr/bx/n/12 43.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 144--147
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 147--147
+[]\T2A/cmr/bx/n/12 44.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 147--150
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 150--150
+[]\T2A/cmr/bx/n/12 45.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 150--153
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 153--153
+[]\T2A/cmr/bx/n/12 46.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 153--156
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 156--156
+[]\T2A/cmr/bx/n/12 47.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 156--159
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 159--159
+[]\T2A/cmr/bx/n/12 48.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 159--162
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 162--162
+[]\T2A/cmr/bx/n/12 49.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 162--165
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 165--165
+[]\T2A/cmr/bx/n/12 50.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 165--168
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 168--168
+[]\T2A/cmr/bx/n/12 51.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 168--171
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 171--171
+[]\T2A/cmr/bx/n/12 52.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 171--173
+[][]
+ []
+
+[12]
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 173--173
+[]\T2A/cmr/bx/n/12 53.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 173--174
+[][]
+ []
+
+
+Overfull \hbox (5.26935pt too wide) in paragraph at lines 174--174
+[]\T2A/cmr/bx/n/12 54.| 
+ []
+
+
+Overfull \hbox (5.77362pt too wide) in paragraph at lines 174--175
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+) [13] (stem11.aux (pt1.aux) (pt2.aux) (probability.aux)) ) 
+Here is how much of TeX's memory you used:
+ 4003 strings out of 493335
+ 50961 string characters out of 3128498
+ 123371 words of memory out of 3000000
+ 7283 multiletter control sequences out of 15000+200000
+ 14543 words of font info for 42 fonts, out of 3000000 for 9000
+ 1302 hyphenation exceptions out of 8191
+ 38i,9n,33p,662b,213s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/r.alishev/
+AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t2a.enc}<C:
+/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmmi12.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1
+/public/amsfonts/cm/cmr12.pfb><C:/Users/r.alishev/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Users/r.alishev/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfcc1200.pfb><C:/Users/r.alish
+ev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0700.pfb><
+C:/Users/r.alishev/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/cm-supe
+r/sfrm1200.pfb>
+Output written on stem11.pdf (13 pages, 135822 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
